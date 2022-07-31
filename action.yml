@@ -1,0 +1,132 @@
+name: publish-to-pypi
+description: Publish a poetry project to pypi.org. Requires "python" to be in the path.
+
+inputs:
+  # required inputs
+  project-name:
+    description: The project name in pypi.org
+    required: true
+
+  pypi-token:
+    description: The pypi token to use for authentication
+    required: true
+
+  # behavior and options
+  pre-release:
+    description: Set to true if a pre-release version should be published.
+    required: false
+    default: "false"
+
+  dry-run:
+    description: Set to true for a test run that doesn't publish or tag.
+    default: "false"
+    required: false
+
+  tag-prefix:
+    description: The github tag prefix, such as `v` in `v3.4.2`
+    default: v
+    required: false
+
+  disable-repository-tags:
+    description: Set to `true` in order to disable the automatic tagging feature.
+    default: 'false'
+    required: false
+
+  pyproject-folder:
+    description: The folder that contains the `pyproject.toml` file.
+    default: ./
+    required: false
+
+  # internal
+  poetry-version:
+    description: The version of poetry to use.
+    default: ==1.1.8
+    required: false
+
+  pypi-cli-version:
+    description: The version of coveo-pypi-cli to use.
+    default: ==2.0.3
+    required: false
+
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Setup/upgrade the python tools
+      shell: bash
+      run: python -m pip install --upgrade pip wheel setuptools pipx --user
+
+    - name: Install poetry
+      shell: bash
+      run: pipx install poetry${{ inputs.poetry-version }}
+
+    - name: Install coveo-pypi-cli
+      shell: bash
+      run: pipx install coveo-pypi-cli${{ inputs.pypi-cli-version }}
+
+    - name: Determine the minimum version for this release (the one in the pyproject.toml file)
+      id: get-minimum-version
+      shell: bash
+      working-directory: ${{ inputs.pyproject-folder }}
+      run: echo "::set-output name=minimum-version::$(python $GITHUB_ACTION_PATH/get-minimum-version.py)"
+
+    - name: Compute the release and prerelease versions
+      id: get-versions
+      shell: bash
+      run: |
+        RELEASE="$(pypi next-version ${{ inputs.project-name }} --minimum-version ${{ steps.get-minimum-version.outputs.minimum-version }})"
+        PRERELEASE="$(pypi next-version ${{ inputs.project-name }} --prerelease --minimum-version ${{ steps.get-minimum-version.outputs.minimum-version }})"
+        echo "::set-output name=release::$RELEASE"
+        echo "Next release: $RELEASE"
+        echo "::set-output name=prerelease::$PRERELEASE"
+        echo "Next prerelease: $PRERELEASE"
+
+    - name: Determine the version to publish.
+      shell: bash
+      id: get-next-version
+      run: |
+        if [[ ${{ inputs.pre-release }} == true ]]; then
+          echo "::set-output name=version::${{ steps.get-versions.outputs.prerelease }}"
+        else
+          echo "::set-output name=version::${{ steps.get-versions.outputs.release }}"
+        fi
+
+    - name: Setup poetry for publish
+      working-directory: ${{ inputs.pyproject-folder }}
+      shell: bash
+      run: |
+        poetry version ${{ steps.get-next-version.outputs.version }}
+        poetry build
+        poetry config pypi-token.pypi ${{ inputs.pypi-token }}
+
+    - name: Publish to pypi.org
+      working-directory: ${{ inputs.pyproject-folder }}
+      shell: bash
+      run: |
+        if [[ ${{ inputs.dry-run }} == false ]]; then
+          poetry publish --no-interaction
+        else
+          echo "Just a dry run; we're not actually publishing"
+        fi
+
+    - name: Tag repository
+      shell: bash
+      id: get-next-tag
+      run: |
+        TAG_NAME=${{ inputs.tag-prefix }}${{ steps.get-next-version.outputs.version }}
+        echo "::set-output name=tag-name::$TAG_NAME"
+        echo "This release will be tagged as $TAG_NAME"
+        git config user.name "github-actions"
+        git config user.email "actions@users.noreply.github.com"
+        git tag --annotate --message="Automated tagging system" $TAG_NAME ${{ github.sha }}
+
+    - name: Push the tag
+      shell: bash
+      env:
+        TAG_NAME: ${{ steps.get-next-tag.outputs.tag-name }}
+      run: |
+        if [[ ${{ inputs.dry-run }} == false && ${{ inputs.disable-repository-tags }} != true ]]; then
+          git push origin $TAG_NAME
+        else
+          echo "If this wasn't a dry run, I would push this new tag named $TAG_NAME"
+        fi
