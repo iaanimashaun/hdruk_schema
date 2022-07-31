@@ -76,6 +76,6 @@ jobs:
     - name: Publish to pypi
       uses: ./
       with:
-        project-name: raptor_functions
+        project-name: hdruk_schema
         pypi-token: ${{ secrets.PYPI_TOKEN }}
-        pyproject-folder: ./raptor_functions
+        pyproject-folder: ./hdruk_schema
