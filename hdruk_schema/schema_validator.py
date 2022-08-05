@@ -14,6 +14,21 @@ from termcolor import colored
 
 
 
+def parse_column(df, col):
+    series = df[col]
+    df_list = defaultdict(list)
+    nrows = series.shape[0]
+
+    for i in range(nrows):
+      for k, v in zip(series.iloc[i].keys(), series.iloc[i].values()):
+        df_list[k].append(v)
+    
+    df = pd.DataFrame.from_dict(dict(df_list.items()), orient='index').T
+    
+    return df
+
+
+
 def parse_json_file(metadata_path, data_model_col='dataModels'):
 
     df_json = pd.read_json(metadata_path)
