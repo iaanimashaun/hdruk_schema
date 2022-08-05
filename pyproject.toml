@@ -6,6 +6,10 @@ authors = ["Ibrahim Animashaun <iaanimashaun@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.4.3"
+termcolor = "^1.1.0"
+validate_email = "^1.3"
+validators = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 pandas = "^1.4.3"
