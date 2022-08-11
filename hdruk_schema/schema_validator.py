@@ -80,9 +80,9 @@ def schema_validator(metadata_path, schema_file_path):
      for col in checklist:
         
 
-        # if col == 'identifier':
-        #     result = validate_property(df, schema_df, col, check_identifier)
-        #     validated_dict[col] = result
+        if col == 'identifier':
+            result = validate_property(df, schema_df, col, check_identifier)
+            validated_dict[col] = result
 
 
         if col == 'version':

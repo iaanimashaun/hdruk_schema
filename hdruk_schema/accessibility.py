@@ -47,7 +47,7 @@ def vaildated_accessibility_usage(usage):
   
 
 
-  print('Checking accessibility usage')
+  # print('Checking accessibility usage')
 
   not_available = 'NA'
   is_valid = {}
@@ -63,8 +63,8 @@ def vaildated_accessibility_usage(usage):
   for k,v in usage.items():
 
       if k == 'dataUseLimitation':
-        print('Checking dataUseLimitation')
-        print('v list: ', v)
+        # print('Checking dataUseLimitation')
+        # print('v list: ', v)
         pattern = r'([^,]+)'
 
         if isinstance(v, str): 
@@ -92,7 +92,7 @@ def vaildated_accessibility_usage(usage):
 
 
       if k == ' dataUseRequirements':
-        print('dataUseRequirements')
+        # print('dataUseRequirements')
         pattern = r'([^,]+)'
         if isinstance(v, str): 
           result = regex_match(pattern, v)
@@ -116,7 +116,7 @@ def vaildated_accessibility_usage(usage):
 
 
       if k == 'resourceCreator':
-        print('resourceCreator')
+        # print('resourceCreator')
         if isinstance(v, str):
           result =  check_length(v, 2, 1000)
           if result:
@@ -142,8 +142,8 @@ def vaildated_accessibility_usage(usage):
 
 
       if k == 'investigations':
-        print('investigations')
-        print('v: ', v)
+        # print('investigations')
+        # print('v: ', v)
         pattern = r'([^,]+)'
         if isinstance(v, str): 
           result = regex_match(pattern, v)
@@ -165,7 +165,7 @@ def vaildated_accessibility_usage(usage):
 
 
       if k == 'isReferencedBy':
-        print('isReferencedBy')
+        # print('isReferencedBy')
         pattern = r'^10.\\d{4,9}/[-._;()/:a-zA-Z0-9]+$'
         if isinstance(v, str): 
           result = regex_match(pattern, v)
@@ -194,7 +194,7 @@ def vaildated_accessibility_usage(usage):
 
 def validate_accessibility_access(access, schema_df):
 
-      print('Checking accessibility access')
+      # print('Checking accessibility access')
 
       not_available = 'NA'
       is_valid = {}
@@ -209,7 +209,7 @@ def validate_accessibility_access(access, schema_df):
       for k,v in access.items():
 
         if k == 'accessRights':
-          print('Access rights')
+          # print('Access rights')
           if isinstance(v, str): 
             result =  validators.url(v)
             if result:
@@ -232,7 +232,7 @@ def validate_accessibility_access(access, schema_df):
 
 
         if k == 'accessService':
-          print('Checking access service')
+          # print('Checking access service')
           result = isinstance(v, str) and check_length(v, 2, 5000)
           if result:
             is_valid[k] = True
@@ -242,7 +242,7 @@ def validate_accessibility_access(access, schema_df):
           is_valid[k] = not_available
 
         if k == 'accessRequestCost':
-          print('Access request cost')
+          # print('Access request cost')
           if isinstance(v, str):
             result =  check_length(v, 2, 5000)
             if result:
@@ -264,7 +264,7 @@ def validate_accessibility_access(access, schema_df):
 
 
         if k == 'deliveryLeadTime':
-          print('deliveryLeadTime')
+          # print('deliveryLeadTime')
           deliveryLeadTimeList = schema_df['definitions.deliveryLeadTime.enum']
           result = is_in_list(v, deliveryLeadTimeList)
           if result:
@@ -276,12 +276,12 @@ def validate_accessibility_access(access, schema_df):
 
 
         if k == 'jurisdiction':
-          print('jurisdiction')
-          print('v: ', v)
+          # print('jurisdiction')
+          # print('v: ', v)
           pattern1 = r'([^,]+)'
           pattern2 = r'^[A-Z]{2}(-[A-Z]{2,3})?$'
           result = regex_match(pattern1, v[0]) #or regex_match(pattern2, v)
-          print('result:', result)
+          # print('result:', result)
           if result:
             is_valid[k] = True
           else:
@@ -290,7 +290,7 @@ def validate_accessibility_access(access, schema_df):
           is_valid[k] = not_available
 
         if k in ['dataController', 'dataProcessor']:
-          print('dataController')
+          # print('dataController')
           result = isinstance(v, str) and check_length(v, 2, 5000)
           if result:
             is_valid[k] = True
@@ -305,7 +305,7 @@ def validate_accessibility_access(access, schema_df):
 
 def validate_accessibility_formatStandards(formatAndStandards, schema_df):
 
-      print('Checking accessibility formatStandards')
+      # print('Checking accessibility formatStandards')
       not_available = 'NA'
       is_valid = {}
 
@@ -319,10 +319,10 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
 
       for k,v in formatAndStandards.items():
 
-        print('k: ', k)
-        print('v: ', v)
+        # print('k: ', k)
+        # print('v: ', v)
         if k == 'vocabularyEncodingScheme':
-          print('key: vocabularyEncodingScheme')
+          # print('key: vocabularyEncodingScheme')
           if isinstance(v, str): 
             pattern = r'([^,]+)'
             result = regex_match(pattern, v)   
@@ -334,13 +334,13 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
             is_valid[k] = not_available
 
           if isinstance(v, list):
-            print('checking list vocabularyEncodingSchemeList')
+            # print('checking list vocabularyEncodingSchemeList')
             vocabularyEncodingSchemeList = schema_df['definitions.controlledVocabulary.enum'].values[0]
             # print('list: ', vocabularyEncodingSchemeList.values)
             result = set(v) <= set(vocabularyEncodingSchemeList)
             # result =  v in vocabularyEncodingSchemeList
-            print('here')
-            print('result: ', result)
+            # print('here')
+            # print('result: ', result)
 
             if result:
               is_valid[k] = True
