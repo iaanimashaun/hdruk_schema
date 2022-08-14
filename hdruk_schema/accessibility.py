@@ -73,8 +73,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
         if isinstance(v, list) and len(v) > 0:
@@ -85,8 +85,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
 
@@ -100,8 +100,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
         if isinstance(v, list):
@@ -110,8 +110,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
 
@@ -123,8 +123,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
 
@@ -134,8 +134,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
 
@@ -151,8 +151,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
         if isinstance(v, list):
           result = validators.url(v[0])
@@ -160,8 +160,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
       if k == 'isReferencedBy':
@@ -173,8 +173,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
         if isinstance(v, list):
           result = regex_match(pattern, v[0])
@@ -182,8 +182,8 @@ def vaildated_accessibility_usage(usage):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
   
 
   return is_valid
@@ -216,8 +216,8 @@ def validate_accessibility_access(access, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
 
           if isinstance(v, list):
@@ -226,8 +226,8 @@ def validate_accessibility_access(access, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
 
 
@@ -238,8 +238,8 @@ def validate_accessibility_access(access, schema_df):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
         if k == 'accessRequestCost':
           # print('Access request cost')
@@ -249,8 +249,8 @@ def validate_accessibility_access(access, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
           if isinstance(v, list):
             result = validators.url(v[0])
@@ -258,8 +258,8 @@ def validate_accessibility_access(access, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
 
 
@@ -271,8 +271,8 @@ def validate_accessibility_access(access, schema_df):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
 
         if k == 'jurisdiction':
@@ -286,8 +286,8 @@ def validate_accessibility_access(access, schema_df):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
         if k in ['dataController', 'dataProcessor']:
           # print('dataController')
@@ -296,8 +296,8 @@ def validate_accessibility_access(access, schema_df):
             is_valid[k] = True
           else:
             is_valid[k] = False
-        else:
-          is_valid[k] = not_available
+        # else:
+        #   is_valid[k] = not_available
 
       return is_valid
 
@@ -330,8 +330,8 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
           if isinstance(v, list):
             # print('checking list vocabularyEncodingSchemeList')
@@ -346,8 +346,8 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
 
         if k == 'conformsTo':
@@ -358,8 +358,8 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
           # if isinstance(v, list):
           #   standardisedDataModelsList = schema_df['definitions.standardisedDataModels.enum']
@@ -382,8 +382,8 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
           # if isinstance(v, list):
           #   languageList = schema_df['definitions.language.enum']
@@ -404,8 +404,8 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
               is_valid[k] = True
             else:
               is_valid[k] = False
-          else:
-            is_valid[k] = not_available
+          # else:
+          #   is_valid[k] = not_available
 
 
       return is_valid      

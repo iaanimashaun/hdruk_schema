@@ -37,8 +37,8 @@ def validate_documentation(documentation):
         is_valid[k] = True
       else:
         is_valid[k] = False
-    else:
-      is_valid['description'] = not_available
+    # else:
+    #   is_valid['description'] = not_available
 
 
     if k == 'associatedMedia':
@@ -47,8 +47,8 @@ def validate_documentation(documentation):
         is_valid[k] = True
       else:
         is_valid[k] = False
-    else:
-      is_valid['associatedMedia'] = not_available
+    # else:
+    #   is_valid['associatedMedia'] = not_available
 
 
 
@@ -58,8 +58,8 @@ def validate_documentation(documentation):
         is_valid[k] = True
       else:
         is_valid[k] = False
-    else:
-      is_valid['isPartOf'] = not_available
+    # else:
+    #   is_valid['isPartOf'] = not_available
 
 
   return is_valid
