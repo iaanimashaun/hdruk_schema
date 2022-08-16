@@ -52,8 +52,8 @@ import pandas as pd
 
 Load metadata and schema
 ```
-metadata_filepath = '/Users/amash/Desktop/Projects/Turing/hdruk/data/datasetsv2.json'
-schema_filepath = "/Users/amash/Desktop/Projects/Turing/hdruk/notebook/datasetschema.json"
+metadata_filepath = 'path/to/datasetsv2.json'
+schema_filepath = "path/to/datasetschema.json"
 
 df = parse_json_file(json_filepath)
 ```
