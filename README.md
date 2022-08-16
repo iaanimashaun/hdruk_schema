@@ -55,11 +55,11 @@ Load metadata and schema
 metadata_filepath = 'path/to/datasetsv2.json'
 schema_filepath = "path/to/datasetschema.json"
 
-df = parse_json_file(json_filepath)
+df = parse_json_file(metadata_filepath)
 ```
 
 ```
-result = schema_validator(json_filepath, schema_path)
+result = schema_validator(metadata_filepath, schema_filepath)
 ```
 
 
