@@ -3,6 +3,7 @@
 
 
 import validators
+import re
 
 
 
@@ -43,7 +44,12 @@ def validate_revisions(revisions):
 
 def check_revisions(df, schema_df):
   
-  revisions = df['summary'].iloc[2]['revisions']
+
+  # print(df.keys())
+  # print("df: ", df)
+  
+  # revisions = df['summary'].iloc[2]['revisions']
+  revisions = df['revisions']
 
   validate_revisions(revisions)
       # if isinstance(v, str) and check_length(v, 2, 80):

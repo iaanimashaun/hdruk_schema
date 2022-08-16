@@ -118,7 +118,8 @@ def schema_validator(metadata_path, schema_file_path):
                 my_table.add_row(["version", len(na_list)])
 
             print(my_table)
-        
+
+
         if col == 'documentation':
             result = validate_property(df, schema_df, col, check_documentation)
             validated_dict[col] = result
@@ -185,4 +186,71 @@ def schema_validator(metadata_path, schema_file_path):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # if col == 'issued':
+        #     result = validate_property(df, schema_df, col, check_issued)
+        #     validated_dict[col] = result
+        #     na_list = result[result!=True].index.tolist()
+            
+        #     my_table = PrettyTable()
+        #     my_table.field_names = ["Property", "No of non-conforming rows"]
+
+        #     if len(na_list) == 0:
+        #         my_table.add_row(["issued", "None"])
+        #     else:
+        #         my_table.add_row(["issued", len(na_list)])
+
+        #     print(my_table)
+
+
+        # if col == 'modified':
+        #     result = validate_property(df, schema_df, col, check_modified)
+        #     validated_dict[col] = result
+        #     na_list = result[result!=True].index.tolist()
+            
+        #     my_table = PrettyTable()
+        #     my_table.field_names = ["Property", "No of non-conforming rows"]
+
+        #     if len(na_list) == 0:
+        #         my_table.add_row(["modified", "None"])
+        #     else:
+        #         my_table.add_row(["modified", len(na_list)])
+
+        #     print(my_table)
+
+        # if col == 'revisions':
+        #     result = validate_property(df, schema_df, col, check_revisions)
+        #     validated_dict[col] = result
+        #     na_list = result[result!=True].index.tolist()
+            
+        #     my_table = PrettyTable()
+        #     my_table.field_names = ["Property", "No of non-conforming rows"]
+
+        #     if len(na_list) == 0:
+        #         my_table.add_row(["revisions", "None"])
+        #     else:
+        #         my_table.add_row(["revisions", len(na_list)])
+
+        #     print(my_table)
 
