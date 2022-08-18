@@ -163,12 +163,3 @@ cython_debug/
 
 
 .vscode/
-data/
-utils.py
-raptor_functions/notebooks/
-raptor_functions/img/
-raptor_functions/catboost_info/
-raptor_functions/localdev/
-raptor_functions/localdev
-/home/parallels/Desktop/PSF/Desktop/Projects/Raptor/localdev
-/home/parallels/Desktop/PSF/Desktop/Projects/Raptor/raptor_functions/raptor_functions/dev

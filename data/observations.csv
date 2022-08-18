@@ -1,0 +1,620 @@
+,observedNode,measuredValue,observationDate,measuredProperty,disambiguatingDescription
+0,PERSONS,9000,27/09/2021,Count,"The population type is SARS-CoV-2 variants of concern and
+variants under investigation in Wales. This includes phylogenetic and mutational information about samples."
+1,FINDINGS,27500,02/07/2021,SARS-CoV-2 VOC VUI ,Episodes
+2,EVENTS,629541,17/01/2021,count,Computer task performance
+3,PERSONS,1078,01/10/2016,Count,"Each participant has a large number (<5000) of data points associated with them. Recruitment started in 2006, but data collection is ongoing, and health data predates recruitment date. Summary statistics of all data can be found on our data showcase."
+4,PERSONS,500000,13/03/2006,Count,number of patients in the dataset
+5,PERSONS,19360,24/06/2021,count,Participants who have consent information
+6,PERSONS,144517,26/11/2020,COUNT,
+7,Persons," 9,476 ",2020-12-08,Count,Number of participants with blood samples
+8,PERSONS,20405,12/09/2021,COUNT,NOT APPLICABLE
+9,Events,"43357 inpatients and A&E patients, including day cases.",2020-06-30,COUNT,"The population type is SARS-CoV-2 variants of concern and
+variants under investigation in Wales. This includes phylogenetic and mutational information about samples."
+10,FINDINGS,27500,02/07/2021,SARS-CoV-2 VOC VUI ,
+11,FINDINGS,3000000,01/01/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+12,Events,"50,887 patients including COPD and non-COPD control group",2020-12-08,COUNT,number of primary shoulder  replacements during 2019 in the dataset
+13,EVENTS,3000000,01/09/2021,Count,"330,000 patients present in dataset"
+14,FINDINGS,45784,01/09/2020,Count,2747000 records in the dataset
+15,PERSONS,330000,03/09/2021,COUNT,NOT APPLICABLE
+16,PERSONS,2747000,24/09/2021,COUNT,number of patient admissions in the audit dataset submitted in 2018/19
+17,Events,1035 maternity spells in this dataset from 01.01.2015 to 31.12.2020,2020-02-17,Count,"total number of NJR records analysed for the 2019 annual report
+"
+18,PERSONS,74696,01/01/2020,Count,Observations Not Applicable at this time (Oct 2021) and default values used where fields are mandatory
+19,FINDINGS,3016279,01/09/2020,Count,Number of participants at recruitment (LBC1921 Wave 1)
+20,FINDINGS,1,30/11/2021,Count,"Pathology Test Results and all Radiology reports for Wales. Data coverage differs by geography:
+
+2012 for Swansea (ABMU)
+
+2017 for Newport (AB)
+
+2012 for North Wales (BC)
+
+2007 for Cwm Taf
+
+2015/16 for Cardiff (CV)
+
+2014 for West Wales (HD)"
+21,PERSONS,550,01/01/1999,Count,Number of CPRD GOLD patients matched to single MHDS identifier
+22,FINDINGS,24416,20/07/2021,COVID LIMIS TEST RESULTS,Approx 70-80% coverage of Welsh population through GP registrations.
+23,PERSONS,841414,21/04/2020,Count,Participants from NHS Trusts that have provided additional EHR data as part of Gut Reaction.
+24,PERSONS,6643,2003-01-01 00:00:00,Count,2800 patients in the dataset
+25,EVENTS,3000000,01/09/2021,Count,"People with a diagnosis of cancer, and people with presentation of symptoms relating to cancer (chief complaint in SNOMED CT)"
+26,EVENTS,3000000,01/09/2021,Count,"15,908 cancer related stroke admissions between 29/10/2004 and 31/07/2021"
+27,EVENTS,3000000,01/09/2021,Count,Better Rx BRIT2 study population. 
+28,PERSONS,6269,02/07/2021,COUNT,Number of procedures reported in the dataset in 2018/19
+29,PERSONS,2800,09/09/2021,COUNT,number of casenote reviews in the dataset
+30,Persons,"10,000",2021-01-04,count,Approx 70-80% coverage of Welsh population through GP registrations.
+31,EVENTS,15908,20/12/2021,Count,Number of CPRD GOLD patients matched to a single cancer identifier
+32,PERSONS,512000,01/01/2017,Count,"1,602,184 spells between 01.12.2008 and 03.07.2021"
+33,EVENTS,12064,01/01/2020,Count,Number of results in the most recent database of sequencing results
+34,PERSONS,1575,01/04/2021,Count,958 patient cases are included from 82 occupational therapy services
+35,EVENTS,3000000,01/09/2021,Count,"11,008 persons in this dataset
+"
+36,EVENTS,3000000,01/09/2021,Count,SNP genotyping array chips processed and imputation performed.
+37,PERSONS,901965,06/09/2021,Count,14304 cataract records
+38,EVENTS,1602184,20/01/2022,Count,"8,760,000 in the dataset"
+39,PERSONS,1,30/06/2021,Count,number of hospitals in England which submited data
+40,FINDINGS,20026,17/08/2021,Count,Total number of practices (current and historic) included in the CPRD GOLD Jan 2022 database
+41,PERSONS,958,30/09/2019,Count,
+42,PERSONS,110088,19/05/2022,COUNT,Number of participants at recruitment
+43,EVENTS,11787,01/09/2021,COUNT,Rare Disease Participants
+44,EVENTS,14304,03/02/2022,Count,
+45,PERSONS,8760000,03/09/2021,COUNT,2099 patient cases are included from 153 physiotherapy services
+46,FINDINGS,110,24/06/2021,count,"11,707,500 persons in the dataset"
+47,FINDINGS,983,04/02/2022,Count,
+48,Events,Anonymous SAMBA dataset with total of 281 Patients,2020-01-30,count,Number of CPRD GOLD patients eligible for postcode linkage
+49,PERSONS,8134,01/01/2013,Count,Total number of research acceptable patients in CPRD GOLD February 2022 version
+50,Persons,"71,800",2020-09-03,Count,"Over 197,000 observations in the first iteration of the data"
+51,Persons,"103,000",2020-11-20,Count,Rare Disease Participants
+52,PERSONS,2099,30/09/2019,Count,"In December 2020 there were 114,125 referrals made into IAPT services in England."
+53,PERSONS,3000000,01/01/2021,Count,"COVID-19 Consolidated Deaths dataset. Similar to the usual Annual deaths extract (SAIL Databank), except this dataset contains additional information with relevance to deaths where Covid-19 is attributable."
+54,PERSONS,11707500,31/01/2022,Count,Cirrhosis
+55,Events,Anonymous SAMBA dataset with total of 338 Patients,2019-06-27,COUNT,"Diabetic Population forom all ethnic groups from age 12 onwards, total live population in excess of 200,000, with another 100,000 patients in the database who are deceased or have left the programme area
+"
+56,PERSONS,10559390,04/02/2022,Count,"759,000 people in the dataset"
+57,PERSONS,20827472,07/02/2022,Count,"Approximately 100,000 individuals surveyed each quarter"
+58,FINDINGS,197000,01/07/2021,Count,"513,000 persons in the dataset"
+59,Persons,"71,800",2020-09-03,Count,"Since 1997 the UKRR has collected data on c. 240,000 patients who are treated at hospital renal centres in England, Northern Ireland, Scotland and Wales who are either on KRT or have CKD. "
+60,EVENTS,114125,25/02/2021,COUNT,A&E attendances in ECDS (Emergency Care Dataset) for the month of October 2020.
+61,PERSONS,44482,21/09/2021,ALF_E,Approx 70-80% coverage of Welsh population through GP registrations.
+62,PERSONS,257,04/01/2010,Count,
+63,EVENTS,200000,25/03/2020,Count,We have invited all specialist palliative care services (adult and children's) through partner organisations across the UK and the world to respond to the survey.
+64,PERSONS,759000,27/09/2021,COUNT,Approx 70-80% coverage of Welsh population through GP registrations.
+65,FINDINGS,1,30/06/2021,Count,Rare Disease Participants
+66,PERSONS,100000,10/11/2020,count,"739,000 patients in the dataset"
+67,PERSONS,513000,28/09/2021,COUNT,1915 people participated in the DOLORISK study.
+68,EVENTS,35047612,04/02/2022,count,Not applicable
+69,PERSONS,240000,31/12/2019,Count,SNP genotyping array chips processed
+70,PERSONS,1420000,18/11/2020,Count,"220,066 events in this dataset"
+71,EVENTS,3000000,01/09/2021,Count,"9,485 elective and emergency admissions with Cholecystectomy procedures"
+72,Persons,10 million images,2004-03-01,10 million,Number of quality surveys submitted to the audit
+73,PERSONS,458,23/04/2020,"Response to Covid-19, innovations introduced, busyness, patients seen",median percentage case ascertainment
+74,EVENTS,3000000,01/09/2021,Count,episodes
+75,Persons,"71,800",2020-09-03,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+76,PERSONS,739000,24/09/2021,COUNT,Rare Disease Participants
+77,PERSONS,1915,09/11/2021,Count,"People experiencing an adverse reaction to a COVID-19 vaccination.
+"
+78,EVENTS,3000000,01/09/2021,Count,"The Welsh Cancer Intelligence & Surveillance Unit (WCISU) is the National Cancer Registry for Wales and its primary role is to record, store and report on all incidence of cancer for the resident population of Wales wherever they are treated."
+79,Events,7127 patient spells at the current timeline (2018- 19/11/2020) but all data from 2000 onwards can be extracted,2020-11-19,count,"92,000 patients in the dataset"
+80,EVENTS,11787,01/09/2021,Count,Number of CPRD Aurum patients matched to single death identifier 
+81,EVENTS,220066,18/05/2022,COUNT,Cafcass court cases in England
+82,EVENTS,9485,06/12/2021,Count,Number of results in the most recent database of sequencing results
+83,FINDINGS,1,31/12/2020,Count,"734,000 people in the dataset"
+84,PERSONS,1581,12/05/2021,Count,"Pillar 2 COVID-19 tests 
+"
+85,FINDINGS,58,24/06/2021,percentage,"The population type is SARS-CoV-2 variants of concern and
+variants under investigation in Wales. This includes phylogenetic and mutational information about samples."
+86,EVENTS,2815222,17/01/2021,count,Episodes
+87,EVENTS,3000000,01/09/2021,Count,Clinical Data
+88,PERSONS,2844000,01/01/2018,Count,"15,000 synthetic admissions between 01/01/2018 and 08/06/2021  "
+89,Persons,"71,800",2020-09-03,Count,"1,629 spells with patients with diabetes between 27-12-2004 and 31-12-2021"
+90,PERSONS,2600,03/03/2021,Count,Number of CPRD GOLD patients matched to a single cancer identifier
+91,EVENTS,714794,20/07/2021,Welsh Cancer Neoplasm and Treatment Events,Percent of acute trusts / health boards in England and Wales submitting data to the NHFD
+92,PERSONS,92000,10/09/2021,Count,Number of Trusts and Health Boards completing the survey each year
+93,PERSONS,4079423,04/02/2022,Count,"Data on over 1.2 million babies, with approximately 25,000 new infant records added quarterly."
+94,PERSONS,1104569,27/09/2021,Count,Patients in the dataset
+95,FINDINGS,20026,17/08/2021,Count,"Approximately 400,000 new and review attendances annually"
+96,FINDINGS,1,31/10/2020,Count,Records of farmers and farmer relations e.g. managers applying for farming financial support schemes
+97,PERSONS,734000,27/09/2021,COUNT,number of hospitals surveyed
+98,FINDINGS,35380000,07/01/2021,Count,Participants who returned health and lifestyle questionnaires
+99,FINDINGS,27500,02/07/2021,SARS-CoV-2 VOC VUI ,"341,000 patients in the dataset"
+100,EVENTS,33208191,16/02/2021,Count,5065 patients
+101,EVENTS,1000,10/11/2021,Count,
+102,EVENTS,15000,12/09/2021,Count,Not applicable
+103,PERSONS,104,27/09/2021,Count,The study aims to recruit 40 patients in total
+104,EVENTS,1629,02/01/2022,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+105,PERSONS,901965,06/09/2021,Count,days of critical care
+106,EVENTS,100,01/05/2018,count,Number of surveys returned
+107,FINDINGS,154,01/01/2021,Count,Participants who have consent information
+108,PERSONS,1200000,14/12/2021,Count,Participants who have demographic information (age and gender as a minimum)
+109,PERSONS,499344,29/06/2020,COUNT,"61,476 admissions for patients with myocardial infarction and unstable angina"
+110,EVENTS,400000,22/06/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+111,EVENTS,37900,18/01/2022,Records of farming income support applications,
+112,EVENTS,3000000,01/09/2021,Count,Diagnostic imaging events relating to the 6 month period April - Sept 2020
+113,FINDINGS,195,01/04/2021,Count,Number of unique CPRD GOLD patients linked to ICNARC
+114,PERSONS,50224,26/11/2020,COUNT,NOT APPLICABLE
+115,PERSONS,341000,11/11/2021,Count,percentage of paediatric diabetes units who completed the survey
+116,FINDINGS,1,30/01/2021,COUNT,"Over 530,000 observations for the year 2019. "
+117,EVENTS,5065,01/10/2021,Count,CYP admitted and included in the dataset
+118,Persons," 106,831 ",2020-12-08,Count,"Pathology Test Results and all Radiology reports for Wales. Data coverage differs by geography:
+2012 for Swansea (ABMU)
+
+2017 for Newport (AB)
+
+2012 for North Wales (BC)
+
+2007 for Cwm Taf
+
+2015/16 for Cardiff (CV)
+
+2014 for West Wales (HD)"
+119,FINDINGS,3000000,01/01/2021,Count,"Finalised dataset – 4,045,162 observations (All deaths from 2011 – 2019)
+Provisional dataset – 3,111,699 observations (All death between 20200101 and 20210308, plus a 5% sample of the living population)"
+120,Events,366174 spells in the dataset as shown on infographic but data can be extended back to 2004 and will be refreshed monthly.,2020-11-19,count,Participants who have consent information
+121,PERSONS,40,28/10/2021,Count,
+122,PERSONS,4500,30/09/2019,N/A,"64,833 acute general medicine admissions from 01/06/2021 and 01/07/2021"
+123,EVENTS,3000000,01/09/2021,Count,Number of Trusts in the UK who responded to the organisational audit survey
+124,EVENTS,328413,20/01/2021,count,Sample tubes collected from participants
+125,EVENTS,14000,31/07/2019,Count,Number of CPRD Aurum patients matched to a single cancer identifier
+126,Persons,33798,2020-11-26,COUNT,"858,000 distinct people in the dataset"
+127,PERSONS,33795,26/11/2020,COUNT,Number of participants at recruitment
+128,EVENTS,61476,16/12/2021,Count,"Dataset includes all patients receiving systemic anti-cancer therapies in or funded by the NHS. This includes adult and paediatric cancer patients receiving systemic anti-cancer treatment, in acute inpatient, day-case and outpatient settings."
+129,EVENTS,3000000,01/09/2021,Count,number of Trusts and Health Boards who submitted data
+130,EVENTS,696566,27/09/2021,Count,Number of CPRD Aurum patients matched to single HES identifier 
+131,EVENTS,35047612,04/02/2022,Count,Number of CPRD GOLD patients matched to single death identifier
+132,Persons," 1,667,778 ",2020-12-08,Count,"79,287 admissions from AMU and ED between 01-11-2017 and 01-10-2020"
+133,PERSONS,18479800,30/09/2020,Count,"Multiple datasets in each nation's TRE with a population size of up to 57M in England (NHSD), 5.5M in Scotland (Safe Haven) and 3.2M in Wales (SAIL).  Some datasets measure events and will have a significantly larger number of records."
+134,PERSONS,3149,04/02/2022,Count,number of carers and key workers surveyed
+135,PERSONS,3000000,22/07/2021,Count,number of clinical staff surveyed
+136,FINDINGS,1,31/03/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+137,Events,2217 patients with confirmed COVID-19 (as confirmed by naso-oropharyngeal SARS CoV-2 swab).,2020-05-15,Count,
+138,EVENTS,100,31/03/2018,count,death records
+139,PERSONS,530000,01/07/2019,Count,
+140,PERSONS,8506,24/06/2021,count,This is total number of clinical images available for analyses. Modalities will have different components and a patient may have multiple clinical images taken. 
+141,FINDINGS,24416,20/07/2021,COVID LIMIS TEST RESULTS,Approx 70-80% coverage of Welsh population through GP registrations.
+142,PERSONS,460453,23/05/2021,Count,Number of patients matched to single HES identifier
+143,PERSONS,7156861,07/05/2021,Count,Persons (patients) self-identifying as having a confirmed clinical diagnosis of IBD and being resident in the UK at the first timepoint (between April and August 2020) and consenting to take part in the Registry's ethically approved COVID-19 IBD study. )
+144,PERSONS,34353,01/09/2021,COUNT,Whole Exome Sequences - CRAM files
+145,Persons," 1,865,802 ",2020-12-08,Count,Participants who returned health and lifestyle questionnaires
+146,EVENTS,64833,24/11/2021,Count,"Latest Publication Wave includes 3,756 individuals. This is from the publication bulletin released on 8th January 2021."
+147,FINDINGS,80,12/11/2020,Count,Number of unique CPRD Aurum patients linked to ICNARC
+148,EVENTS,225265,26/11/2020,COUNT,Number of CPRD Aurum patients matched to a single cancer identifier
+149,PERSONS,3255865,06/09/2021,Count,Activities
+150,PERSONS,858000,27/10/2021,COUNT,number of PCI procedures reported to the audit in 2018/19
+151,PERSONS,1698,2008-01-01 00:00:00,Count,Number of CPRD GOLD patients matched to single HES identifier
+152,EVENTS,47433,20/07/2021,Palliative Day Care Events,number of cardiac surgeries included in the three years 2016-2019
+153,FINDINGS,118,01/01/2021,Count,"number of primary ankle  replacements during 2019 in the dataset
+"
+154,PERSONS,34416869,06/09/2021,Count,"4,790 distinct patients with CRP COVID visits between 23/12/2019 and 29/07/2021"
+155,PERSONS,1,30/06/2019,Count,
+156,PERSONS,1158177,04/02/2022,Count,Number of CPRD GOLD patients matched to a single cancer identifier
+157,EVENTS,79287,15/02/2022,Count,Number of CPRD Aurum patients matched to single MHDS identifier
+158,EVENTS,35047612,04/02/2022,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+159,PERSONS,65000000,01/01/1990,Count,NHS National Codes
+160,PERSONS,4736,01/04/2021,Count,2800 patients in the dataset
+161,PERSONS,14154,01/04/2021,Count,"226,958 Patients with 1,862,897 Ophthalmic Prescriptions"
+162,EVENTS,3000000,01/09/2021,Count,Participants who have clinical data (disease and/or medication data collected at recruitment by a healthcare professional); this number excludes any healthy participants who have no current disease or medications
+163,PERSONS,53000,31/03/2015,"Questionnaire, clinical measurements, cognitive tests","number of primary hip replacements during 2019 in the dataset
+"
+164,FINDINGS,1,01/12/2021,Count,
+165,PERSONS,4750,02/01/2012,Count,240000000 patients in dataset
+166,Persons," 46,288 ",2020-12-08,Count,"8668 Patients
+16,659 eyes with 1,883,796 images
+10,966 eyes with 175,657 injections (Lucentis/Eylea)
+17,331 eyes with 510.564 visual acuity readings"
+167,EVENTS,350505,17/01/2021,count,"300,000 patients per year and associated events"
+168,Events,50902 patients including those  on ventilation and an unventilated control group,2020-12-08,EVENTS,Number of patients matched to single HES identifier
+169,EVENTS,977227263,13/05/2021,count,Households
+170,EVENTS,3000000,01/09/2021,Count,
+171,EVENTS,35047612,04/02/2022,Count,"73,204 Acute Hospital Admissions between 05-March-2020 and 05-Nov-2020."
+172,EVENTS,35047612,04/02/2022,Count,Distinct Patients
+173,PERSONS,9800,01/04/2020,COUNT OF PATIENTS,"Latest file received from EA is currently at 27,185 records (as of 13/09/2021)"
+174,FINDINGS,1,31/12/2020,Count,Number of CPRD Aurum patients matched to single HES identifier 
+175,EVENTS,6996,01/09/2021,COUNT,Rare Disease Participants
+176,PERSONS,22773,01/09/2021,COUNT,"514,000 persons in the dataset"
+177,Findings,3756,2021-01-08,count,Approx 70-80% coverage of Welsh population through GP registrations.
+178,PERSONS,14207,04/02/2022,Count,"Multiple datasets in each nation's TRE with a population size of up to 57M in England (NHSD), 5.5M in Scotland (Safe Haven) and 3.2M in Wales (SAIL).  Some datasets measure events and will have a significantly larger number of records."
+179,PERSONS,3255865,06/09/2021,Count,Number of unique death registrations since 1993 in England and Wales
+180,EVENTS,31000,23/09/2021,Count,"The Welsh Cancer Intelligence & Surveillance Unit (WCISU) is the National Cancer Registry for Wales and its primary role is to record, store and report on all incidence of cancer for the resident population of Wales wherever they are treated."
+181,FINDINGS,1,31/07/2020,Count,
+182,FINDINGS,1,31/12/2020,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+183,EVENTS,100294,01/01/2020,Count,Percent of acute trusts / health boards in England and Wales submitting data
+184,PERSONS,8024752,06/09/2021,Count,"129,000 persons in the dataset"
+185,EVENTS,34000,01/01/2020,Count,emergency admissions
+186,FINDINGS,6589,01/09/2020,Count,"1,131,000 patients in dataset"
+187,EVENTS,4790,09/12/2021,Count,"There are 981,000 patients in the dataset"
+188,Persons," 1,643,175 ",2020-12-08,Count,number of implanting hospitals who submitted data in 2018/19
+189,PERSONS,901965,06/09/2021,Count,NHS National Codes
+190,PERSONS,2080806,21/04/2020,Count,"Since 2015 c. 1.7 million people have triggered a laboratory e-alert for an AKI. Each year the UKRR collects data on about 500,000 people with a suspected AKI in England - this includes more than 1.5 million AKI e-alerts."
+191,EVENTS,3000000,01/09/2021,Count,"Number of children registered to the audit for publication in 2020, or which 1118 had been diagnosed with epilepsy."
+192,PERSONS,29497,15/09/2021,Count,"106,000 patients present in dataset"
+193,PERSONS,2873,09/09/2021,COUNT,Latest Publication Wave includes 9389 businesses. This is from the publication bulletin released on 7th January 2021.
+194,PERSONS,226958,01/11/2021,Patients,Number of CPRD Aurum patients matched to single HES identifier 
+195,PERSONS,57559,26/11/2020,COUNT,2.2 million persons
+196,FINDINGS,1191253,01/09/2020,Count,
+197,Persons," 176,063",2020-12-08,Count,"New referrals were received into mental health services during October 2020, as recorded in the mental health services dataset
+"
+198,PERSONS,240000000,23/09/2021,COUNT,"Data of patients seen in Diabetic Retinopathy screening service and in the hospital opthalamology department
+"
+199,PERSONS,8668,23/09/2021,8668,"Synthetic Data, generated using a Naïve Bayes model"
+200,PERSONS,300000,01/01/2020,Count,"8,692 Patients
+17,027 Eyes with 1,989,711 Images
+11,001 Eyes with 176,370 Injections (Lucentis/Eylea)
+17,379 Eyes with 513,619 Visual Acuity readings"
+201,PERSONS,35047612,04/02/2022,Count,"Patients who have consented for their data to be used for research. The data includes information on their respiratory condition and linked pathology, admission and respiratory physiology data."
+202,FINDINGS,187683,01/03/2021,Count,"604,168 Eyes with 13,237,510 Images"
+203,Persons," 2,640,926 ",2020-12-08,Count,Number of CPRD GOLD patients matched to single HES identifier
+204,EVENTS,73204,26/05/2021,Count,"Positive COVID-19 tests
+"
+205,PERSONS,171510,29/11/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+206,FINDINGS,27185,13/09/2021,Count,"Volunteer adults females and males (predominantly females) living in UK at time of recruitment. The dataset includes single twins, twin pairs and triplets (identical and non-identical)."
+207,PERSONS,35047612,04/02/2022,Count,number of patients in the dataset
+208,Persons,"71,800",2020-09-03,Count,"1,019,000 patients in dataset"
+209,PERSONS,97113,27/09/2021,Count,Antibody tests conducted
+210,PERSONS,514000,12/11/2021,Count,"378,000 patients in dataset"
+211,PERSONS,3000000,01/01/2021,Count,Stillbirths
+212,EVENTS,3000000,01/09/2021,Count,"16,840 distinct patients across both runs of GoDARTS in 2005 and 2010."
+213,PERSONS,65000000,01/01/1990,Count,NHS National Codes
+214,EVENTS,14900000,15/01/2021,Count,Computer task performance 
+215,EVENTS,714794,20/07/2021,Welsh Cancer Neoplasm and Treatment Events,"3,219 Patients
+6,378 Eyes with 806,581 Images
+4,516 Eyes with 42,729 Injections (Lucentis/Eylea)
+6,438 Eyes with 204,724Visual Acuity Readings"
+216,Persons,1743000,2020-10-29,Count,"60,283 patient admissions with Hospital acquired pneumonia between 01-01-2000 and 31-12-2021"
+217,EVENTS,3000000,01/09/2021,Count,percentage of paediatric diabetes units who completed the survey
+218,EVENTS,95,01/05/2018,count,NOT APPLICABLE
+219,PERSONS,129000,28/09/2021,Count,Participants who have contact details
+220,EVENTS,15475075,20/01/2021,count,number of casenote reviews in the dataset
+221,PERSONS,1131000,23/09/2021,Count,Number of paediatric diabetes units submitting data to the audit (out of 173 in England and Wales)
+222,PERSONS,981000,24/09/2021,COUNT,"Outpatient appointments from HES (Hospital Episode Statistics) 
+"
+223,EVENTS,181,01/01/2020,Count,"3181 Patients
+6259 eyes with 768440 images
+4462 eyes with 42206 injections (Lucentis/Eylea)
+6362 eyes with 198851 visual acuity readings"
+224,PERSONS,68219,15/09/2021,Count,Total number of patients with images
+225,PERSONS,1700000,31/12/2019,Count,Self-reported pain questionnaire
+226,EVENTS,3318,01/12/2020,Count,Number of CPRD Aurum patients matched to a single cancer identifier
+227,PERSONS,106000,19/07/2021,Count,76 participants in the study
+228,FINDINGS,9389,07/01/2021,count,"30,000 synthetically generated patient records, generated using a Naïve Bayes model"
+229,PERSONS,34416869,06/09/2021,Count,"112,514 persons in this dataset
+"
+230,PERSONS,2200000,15/07/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+231,Persons,"2,684,730",2020-12-08,Count,Participants who have contact details
+232,Events,357042,2020-11-19,Count,"This and other counts (for GP system suppliers, Practices, Journal Entries and Clinical Codes Cluster Utilisation) and coverage proportion for England are reported at https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-fo"
+233,EVENTS,18782,22/02/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+234,Events,30000,2021-02-22,Count,number of patients in the dataset
+235,PERSONS,8692,01/01/2021,Patients,Episodes
+236,Persons,2350,2021-03-01,Persons consented for research,
+237,PERSONS,319048,01/01/2021,319048,Cancer Participants
+238,FINDINGS,17000,31/01/2021,Count,Distinct patients
+239,FINDINGS,30,30/09/2020,Count,Not Applicable
+240,PERSONS,8024752,06/09/2021,Count,DICOM
+241,FINDINGS,3128000,07/01/2021,Count,3003000 patients in the dataset
+242,EVENTS,3000000,01/09/2021,Count,Observations detail not provided for inclusion here and default values used in mandatory fields
+243,PERSONS,15000,31/12/2021,Count,"20,058 persons in the dataset
+"
+244,PERSONS,8702,01/01/2021,Count,
+245,PERSONS,1019000,27/09/2021,COUNT,"139,462 admissions for community acquired pneumonia from 01/01/2000 to 31/01/2022"
+246,EVENTS,320389,04/02/2021,Count,Number of CPRD GOLD patients matched to a single cancer identifier
+247,PERSONS,378000,27/09/2021,COUNT,Number of CPRD Aurum patients matched to single HES identifier 
+248,PERSONS,57944,27/09/2021,Count,Number of unique CPRD GOLD patients linked to CHESS
+249,EVENTS,12544,17/01/2021,count,Population size
+250,PERSONS,16840,26/10/2021,Count,The data set is concerned with the number of consents to join clinical research which have been taken. Hence the observed node in this case is the consent event. Measured values will increase over time from the baseline recorded here by c. 60k/month
+251,EVENTS,115563,15/09/2021,Count,number of primary knee  replacements during 2019 in the dataset
+252,PERSONS,3208,01/10/2016,Count,total number of NJR records analysed for the 2019 annual report
+253,PERSONS,52,31/03/2021,Count,"9,639 distinct patients"
+254,PERSONS,3219,30/09/2021,Count,Number of CPRD Aurum patients matched to a single cancer identifier
+255,EVENTS,60283,09/03/2022,Count,"2,507,000 patients in the dataset"
+256,EVENTS,100,31/03/2018,count,percentage of GP practices in Wales from whom data was extracted
+257,Events,Currently 5943 covid positive patients,2020-11-03,COUNT,Patients meeting recruitment criteria
+258,PERSONS,34065,01/09/2021,COUNT,Approx 70-80% coverage of Welsh population through GP registrations.
+259,PERSONS,9782,01/04/2021,Count,NHS24 calls
+260,FINDINGS,166,31/03/2020,Count,Not applicable
+261,FINDINGS,3000000,01/01/2021,Count,"Over 200,000 patients 
+
+2.5 million grading events at any level
+1.68 million gradings including ophthalmology referrals
+1 million final grades from community screens
+0ver 6 million images over 15 years
+"
+262,EVENTS,106000000,18/11/2020,Count from November 2019 to October 2020,Number of CPRD Aurum patients eligible for postcode linkage
+263,PERSONS,768440,20/07/2021,768400,"Over 197,000 observations in the first iteration of the data"
+264,Persons,https://nhsx.github.io/covid-chest-imaging-database/stats.html,2021-01-06,count,Stays
+265,PERSONS,200000,01/01/1990,Count,dispensed items
+266,PERSONS,873267,29/09/2021,Count,812 spells for patients with Acute compartment syndrome between 08-07-2004 and 27-07-2021
+267,FINDINGS,8565,01/09/2002,Count,"341,000 patients in the dataset"
+268,EVENTS,3000000,01/09/2021,Count,"total number of NJR records analysed for the 2019 annual report
+"
+269,PERSONS,3255865,06/09/2021,Count,"Approximately 11,000 patients"
+270,PERSONS,76,15/11/2021,Count,Number of patients matched to single HES identifier.
+271,EVENTS,35047612,04/02/2022,Count,349 patients with primary colorectal cancer
+272,EVENTS,30000,22/02/2021,Count,NHS24 calls
+273,PERSONS,112514,18/05/2022,COUNT,Percent of acute trusts / health boards in England and Wales submitting data to the NHFD
+274,EVENTS,3000000,01/09/2021,Count,Number of participants at recruitment
+275,PERSONS,142966,26/11/2020,COUNT,"14,852 Spells of hospitalised COPD exacerbations"
+276,PERSONS,56441600,24/08/2020,Count,"5,625 admissions between 30-03-2000 and 01-02-2022"
+277,EVENTS,3000000,01/09/2021,Count,First Health Check (1HC)
+278,PERSONS,37747,01/01/2021,Count,"Dataset includes all patients receiving systemic anti-cancer therapies in or funded by the NHS. This includes adult and paediatric cancer patients receiving systemic anti-cancer treatment, in acute inpatient, day-case and outpatient settings."
+279,PERSONS,1188471,09/07/2021,Count,"1361 patient
+15063 eyes receiving treatment 
+"
+280,PERSONS,7707,01/09/2015,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+281,EVENTS,104151931,20/02/2021,Count,The total number of patient records in the dataset.
+282,EVENTS,35047612,04/02/2022,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+283,Events,"Diabetic Population forom all ethnic groups from age 12 onwards, total live population in excess of 200,000, with another 100,000 patients in the database who are deceased or have left the programme area. Approx 34,000 Hospital patients",2020-03-31,Count,Sample tubes collected from participants
+284,PERSONS,1064369,22/09/2021,Count,Elective infra-renal AAA repairs included in 2019 dataset
+285,Persons,"17,339",2020-09-03,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+286,PERSONS,78,04/03/2013,Count,"12,369 ICU admissions with lactate reading from 01/01/2018 to 31/12/2020"
+287,EVENTS,3000000,01/09/2021,Count,Total number of research acceptable patients in CPRD GOLD February 2022 version
+288,EVENTS,3000000,01/09/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+289,PERSONS,618044,29/11/2021,Count,"total number of NJR records analysed for the 2019 annual report
+"
+290,Events,16456 spells in this dataset from 01.01.2015 to 18.11.2020,2020-12-21,Count,"Data on over 1.2 million babies, with approximately 25,000 new infant records added quarterly."
+291,FINDINGS,200,04/03/2022,Count,percentage of hospitals in England which submited data
+292,PERSONS,3003000,14/09/2021,COUNT,"Approximately 42 million prescription items per year
+
+"
+293,FINDINGS,1,14/03/2020,Count,CPR population
+294,FINDINGS,1,30/11/2021,Count,Number of papers with affiliation and/or acknowledgement to HDR UK
+295,PERSONS,20058,18/05/2022,COUNT,Participants who have demographic information (age and gender as a minimum)
+296,Persons," 19,056 ",2020-12-08,Count,Approximately 2 million patients registered with a GP annually
+297,EVENTS,139462,25/04/2022,Count,"Records (1985-2012).  Stillbirths, early neonatal deaths and late neonatal deaths, although depending on the year of coverage, some post-neonatal deaths may be recorded, as well as some miscarriages and terminations of pregnancy."
+298,PERSONS,901965,06/09/2021,Count,Births
+299,PERSONS,34416869,06/09/2021,Count,
+300,PERSONS,5950,04/02/2022,Count,Approximate number of children added per year
+301,PERSONS,4173000,01/12/2021,COUNT,NOT APPLICABLE
+302,EVENTS,7883974,04/05/2021,Count,
+303,FINDINGS,1300897,01/09/2020,Count,
+304,FINDINGS,3016279,01/09/2020,Count,"50,000 observations on average per month"
+305,EVENTS,9639,03/11/2021,Count,Distinct patients
+306,PERSONS,3255865,06/09/2021,Count,"The Walker cohort is a database of over 48,000 birth records containing information on pregnancy, labour, birth and care before discharge for babies born in hospital in Dundee between 1952 and 1966."
+307,PERSONS,2507000,12/11/2021,Count,"158,000 patients in dataset"
+308,PERSONS,70,31/03/2021,Count,6256 patient cases are included from 266 elderly care and neurology services
+309,EVENTS,47,24/06/2021,percentage,Participants who have contact details
+310,PERSONS,113,16/03/2022,Count,
+311,EVENTS,3000000,01/09/2021,Count,Count of completed (processed) COVID-19 antigen tests booked through the NHS-Digital portals
+312,PERSONS,3500000,14/05/2021,Count,"Number of hospitals who submitted data
+"
+313,EVENTS,13708599,20/01/2021,count,Count of completed (processed) COVID-19 antigen tests carried out in NHS hospitals in Northern Ireland
+314,Events,26003 spells in dataset from 01.01.2015 to 17.11.2020,2020-12-21,Count,Number of case notes submitted
+315,EVENTS,200000,01/10/2021,Count,episodes of critical care
+316,PERSONS,45811089,04/02/2022,Count,148 patients were recruited to the HIV-POGO study
+317,FINDINGS,197000,01/07/2021,Count,Number of unique CPRD Aurum patients linked to CHESS
+318,EVENTS,6067069,05/02/2021,Count,Number of participants at recruitment (LBC1936 Wave 1)
+319,EVENTS,606553380,24/12/2020,count,"129,000 persons in the dataset"
+320,EVENTS,812,14/01/2022,Count,"378,367 persons in this dataset"
+321,PERSONS,341000,11/11/2021,Count,
+322,FINDINGS,1,30/06/2021,Count,number of lower limb angioplasty / stent procedures included in the audit 2017-2019
+323,FINDINGS,3016279,01/09/2020,Count,Population of Lothian
+324,PERSONS,75,27/09/2021,Count,"3637 patients recruited to the 100,000 Genomic project within the West Midlands including rare diseases and cancers."
+325,Persons,"11,000",2021-01-25,count,Number of unique CPRD Aurum patients linked to SGSS
+326,EVENTS,35047612,01/03/2022,Count,"8247 patient cases are included submitted by 451 
+(77.7%) of the services participating in the 2019 UK Parkinson's Audit."
+327,Persons,349,1996-01-01,Count,91287 spells in this dataset from 06.10.2004  to 18.02.2021
+328,PERSONS,2683983,29/09/2021,Count,"number of primary elbow  replacements during 2019 in the dataset
+"
+329,Events,13708599,2021-01-20,count,"Approximately 500,000 new and review attendances annually"
+330,PERSONS,3500000,14/05/2021,Count,Computer task performance
+331,PERSONS,100,31/08/2019,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+332,EVENTS,100,01/05/2018,count,Number of CPRD Aurum patients eligible for postcode linkage
+333,PERSONS,1000,01/01/2016,Count,Participants who have clinical data (disease and/or medication data collected at recruitment by a healthcare professional)
+334,EVENTS,14852,27/05/2021,Count,"Approximately 28,000 individuals have been surveyed for the two-quarter longitudinal datasets"
+335,EVENTS,5625,21/02/2022,Count,"91,568 spells with patients with diabetes between 12-01-2000 and 01-01-2022"
+336,PERSONS,49282,01/03/2020,TBC,Approx 70-80% coverage of Welsh population through GP registrations.
+337,PERSONS,25639,04/01/1993,Count,"All people aged 4 and over who are studying, or aged 16 to 74 in employment the week before the census"
+338,PERSONS,115,01/05/2021,Count,Total number of practices (current and historic) included in the CPRD Aurum Jan 2022 database
+339,FINDINGS,1,30/04/2020,Count,2439 patients across 2499 admissions where the patient was subjected to ventilation.
+340,EVENTS,47433,20/07/2021,Palliative Day Care Events,Number of CPRD GOLD patients matched to a single cancer identifier
+341,EVENTS,1361,01/10/2021,Count,People receiving their first dose of a COVID-19 vaccination 
+342,EVENTS,3000000,01/09/2021,Count,People in England and Wales with diabetes included in the 18/19 National Diabetes Audit
+343,PERSONS,12332510,02/07/2021,Count,"Cardiochip, n=8000; Metabochip, n=20,000; and the Infinium Human Core DrugDev array, n=20,000, as well as the Nightingale NMR metabolomics platform >200 lipidomic and metabolomic measures) and the Somalogic Proteomics platform >5000 circulating proteins"
+344,EVENTS,3000000,01/09/2021,Count,"All people aged 4 and over who are studying, or aged 16 to 74 in employment the week before the census"
+345,PERSONS,60000,01/10/2020,Count,NHS National Codes
+346,Events,94431,2020-11-26,COUNT,Not applicable
+347,EVENTS,3445,12/11/2020,Count,Count of discrete episodes of inpatient stays
+348,EVENTS,3000000,01/09/2021,Count,Number of CPRD Aurum patients matched to single HES identifier 
+349,EVENTS,12369,25/11/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+350,PERSONS,20827472,07/02/2022,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+351,EVENTS,3000000,01/09/2021,Count,Total number of research acceptable patients in CPRD Aurum February 2022 version
+352,FINDINGS,3016279,01/09/2020,Count,There are 240000000 records in the dataset
+353,PERSONS,1200000,14/12/2021,Count,Number of participants at recruitment
+354,FINDINGS,95,24/06/2021,percentage,"Approx. 25,000 maternities annually
+"
+355,FINDINGS,42000000,22/06/2021,Count,"47,091 Persons in the dataset"
+356,Persons,40000,2017-10-20,count,Approx 70-80% coverage of Welsh population through GP registrations.
+357,FINDINGS,575,27/11/2020,Count,Number of fracure liaison services who submitted data to the FLS-DB in 2017
+358,FINDINGS,30,15/06/2021,Count,"Cafcass court cases in Wales
+"
+359,PERSONS,34232,01/09/2021,COUNT,
+360,PERSONS,270230,20/11/2020,Count,"Approximately 40,000 households surveyed each quarter"
+361,FINDINGS,2000000,22/06/2021,Count,number of carotid interventions included in the dataset in 2019
+362,PERSONS,21249,17/01/2021,count,Participants who have clinical data (disease and/or medication data collected at recruitment by a healthcare professional)
+363,EVENTS,2355051,17/01/2021,count,Approx 70-80% coverage of Welsh population through GP registrations.
+364,EVENTS,8581,01/07/2016,Count,Number of neonatal units submitting data in 2020
+365,PERSONS,116000,2020-08-31,Count,There are approximately 110 participants in the Follow-COVID study
+366,Persons,53000,12/02/2021,Count,number of patients in the dataset
+367,PERSONS,8885 spells in this dataset from 01.01.2015 to 31.12.2020,2020-02-16,Count,Number of CPRD GOLD patients matched to single HES identifier
+368,Events," 2,644,802 ",2020-12-08,Count,Computer task performance
+369,Persons,3100000,2011-09-19,Count,102 participants in total
+370,Persons,50000,30/04/2021,Count,"Adults born before 1992, residing in Scotland at time of recruitment"
+371,PERSONS,3000000,01/09/2021,Count,Number of Trusts in the UK who responded to the organisational audit survey
+372,EVENTS,1,28/02/2021,Count,"48,820 spells diagnosed with atrial fibrillation"
+373,FINDINGS,291231,29/11/2021,Count,number of major lower limb amputations submitted to the audit in 2017-2019
+374,PERSONS,3200,27/09/2021,Count,Participants who returned health and lifestyle questionnaires
+375,PERSONS,49000,01/09/2021,Count,"1,431,000 patients in the dataset"
+376,PERSONS,158000,08/09/2021,Count,"The study aims to recruit 25,000 patients in the UK who have been diagnosed with ME/CFS by a health professional"
+377,PERSONS,6256,30/09/2019,Count,"The 8000 research volunteers are people with ancestry from the Northern Isles of Scotland, UK. This is defined as having two or more immediate grandparents from Orkney or Shetland."
+378,PERSONS,31872,2020-11-26,COUNT,"Since March 2020, c. 13,000 patients with kidney disease who receive treatment from a renal centre in England, Northern Ireland and Wales have had a positive laboratory test for SARS-CoV-2."
+379,Persons," 1,016,695 ",2020-12-08,Count,Cancer study participants
+380,Persons,1,16/06/2021,Count,SNP genotyping array chips processed
+381,EVENTS,3000000,01/09/2021,Count,There are 2036 participants of the MATCH study
+382,EVENTS,247,12/05/2021,Count,Participants who have demographic information (age and gender as a minimum)
+383,FINDINGS,1,31/08/2022,Count,Number of COVID Tests
+384,FINDINGS,1,16/06/2021,Count,"323,899 spells with laboratory investigations recorded."
+385,EVENTS,6730,12/05/2021,Count,"Samples with FEV1 and FVC
+FEV1 = Forced Expiratory Volume 1
+FVC = Forced Vital Capacity
+
+"
+386,PERSONS,78226,20/01/2021,count,Number of CPRD GOLD patients eligible for postcode linkage
+387,EVENTS,148,28/10/2021,Count,NOT APPLICABLE
+388,PERSONS,32089,04/03/2022,Count,Number of CPRD Aurum patients matched to a single cancer identifier
+389,PERSONS,1091,2004-01-01 00:00:00,Count,846 admissions of worsening COPD between 01-01-2018 to 31-12-2018
+390,PERSONS,129000,28/09/2021,COUNT,Persons (patients) with confirmed clinical diagnosis of IBD under the care of an NHS hospital
+391,PERSONS,378367,19/05/2022,COUNT,Approx 70-80% coverage of Welsh population through GP registrations.
+392,PERSONS,13000,2020-06-10,Count,Computer task performance
+393,Persons,23881,12/11/2020,Count,Air Pollution Estimates
+394,EVENTS,800000,01/01/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+395,PERSONS,3000000,01/09/2021,Count,Number of CPRD GOLD patients matched to single HES identifier
+396,EVENTS,3500000,14/05/2021,Count,Participants who returned health and lifestyle questionnaires
+397,PERSONS,3637,18/12/2019,COUNT,percentage of pulmonary rehab services in England which submited data
+398,PERSONS,1720744,04/02/2022,Count,"3,669 CAP spells in this dataset from 2019-09-01 to 2020-01-31 and 2020-09-01 to 2021-01-31"
+399,PERSONS,1,31/01/2021,Count,Number of CPRD GOLD patients matched to single HES identifier
+400,FINDINGS,8247,30/09/2019,Count,birth records
+401,PERSONS,91287,22/02/2021,Count,Number of CPRD Aurum patients matched to a single cancer identifier
+402,EVENTS,1,31/07/2019,Count,"1082405 referrals were received during December 2020, as recorded in the Community Services dataset"
+403,FINDINGS,4373,01/09/2020,Count,Useable adult critical care records
+404,FINDINGS,500000,16/06/2021,Count,Number of households at recruitment (Wave 1)
+405,EVENTS,1318,01/10/2015,Count,Total number of research acceptable patients in CPRD GOLD February 2022 version
+406,PERSONS,3000000,01/09/2021,Count,"Latest Publication Wave includes 3,756 individuals. This is from the publication bulletin released on 8th January 2021."
+407,EVENTS,45811089,04/02/2022,Count,Consultations
+408,PERSONS,33632,26/11/2020,COUNT,"The Welsh Results Reports Service, gives clinicians blood results for patients, no matter where they had their blood taken. So rather than travelling to have blood tests, patients can go to mobile units, or local centres, and clinicians can see results."
+409,PERSONS,28000,10/11/2020,count,"242,629 acute admissions with a NEWS2 score between 01/01/2018 and 01/02/2022"
+410,PERSONS,9137,01/03/2014,Count,
+411,PERSONS,91568,02/01/2022,Count,"141,921 same day emergency spells that are completed in 48 hours or less from 2019-04-01 to 2020-09-30"
+412,EVENTS,3000000,01/09/2021,Count,Number of participants in the study after quality control filtering
+413,EVENTS,3397207,27/03/2011,Count,Number of patients matched to single HES identifier
+414,PERSONS,1489,04/02/2022,Count,Number of patients matched to single death identifier
+415,FINDINGS,22500,20/12/2021,Count,"64389 patients, 1843659 retinal scan images"
+416,PERSONS,2499,22/02/2021,Count,Number of Trusts and Health Boards who submitted data for the 2020 report.
+417,EVENTS,901965,06/09/2021,Count,number of records submitted to the audit in 2018/19
+418,PERSONS,17521000,03/03/2021,Count,
+419,PERSONS,3479215,2019-03-31,Count,unique patients that have submitted prescriptions in Oct 2020.
+420,Persons,1,21/09/2021,Count,"Finished Consultant Episodes (FCEs) within Admitted Patient Care (APC) HES (Hospital Episode Statistics) 
+"
+421,PERSONS,30000,01/06/2016,Count,NOT APPLICABLE
+422,PERSONS,3397207,2011-03-21,Count,Persons recruited to the BiB Growing Up study
+423,Persons,1743000,29/10/2020,Count,1022 patient cases are included from 79 speech and language therapy services
+424,PERSONS,268739,15/09/2021,Count,Approx 70-80% coverage of Welsh population through GP registrations.
+425,PERSONS,30105,17/08/2021,Count,number of lower limb bypass procedures submitted to the audit in 2017-2019
+426,EVENTS,1,21/05/2021,Count,Episodes
+427,EVENTS,34416869,06/09/2021,Count,"385,000 patients in the dataset"
+428,PERSONS,3000000,01/09/2021,Count,Number of CPRD GOLD patients matched to a single cancer identifier
+429,EVENTS,3000000,01/09/2021,Count,
+430,EVENTS,461175,22/09/2021,Count,Approximate number of new patients included each year
+431,EVENTS,40933535,07/02/2022,Count,Women with an antenatal booking appointment during September recorded in the maternity services data set.
+432,PERSONS,240000000,24/09/2021,COUNT,Number of unique CPRD GOLD patients linked to SGSS
+433,PERSONS,1319475,01/01/1996,Count,"total number of NJR records analysed for the 2019 annual report
+"
+434,PERSONS,25000,14/05/2021,Count,"128,076 acute episodes amongst patients aged over 65 with identifiable features of frailty between 01/01/2018 and 01/08/2021"
+435,EVENTS,47091,12/05/2022,COUNT,"12,691 COPD (both with a positive and negative swab for SARS-CoV-2 infection) and Non COPD patients (with a positive swab for SARS-CoV-2 infection) between 2019-03-01 to 2020-12-15"
+436,PERSONS,3000000,01/09/2021,Count,"Approximately 16,000 deaths registered per year"
+437,EVENTS,59,01/05/2018,count,"30 carpal tunnel syndrome patients (17 female, 13 male) and 26 healthy volunteers (18 female, 8 male) are present in the dataset."
+438,EVENTS,721005,20/08/2021,Count,
+439,EVENTS,3000000,01/09/2021,Count,
+440,EVENTS," 748,472",2020-12-08,Count,
+441,Persons,40000,25/09/2020,count,
+442,FINDINGS,4141,12/11/2020,Count,
+443,EVENTS,33904,01/09/2020,COUNT,
+444,PERSONS,3000000,01/01/2021,Count,
+445,FINDINGS,35047612,04/02/2022,Count,
+446,EVENTS,3000000,01/09/2021,Count,
+447,EVENTS,165,11/11/2021,Count,
+448,FINDINGS,110,29/09/2021,Count,
+449,PERSONS,1,31/01/2021,Count,
+450,FINDINGS,12127,24/06/2021,count,
+451,PERSONS,300,01/10/2004,Count,
+452,PERSONS,8066341,04/02/2022,Count,
+453,PERSONS,1,30/12/2020,Count,
+454,FINDINGS,75,01/09/2013,Count,
+455,PERSONS,102,19/10/2021,Count,
+456,PERSONS,24000,10/05/2011,Count,
+457,PERSONS,80,12/11/2020,Count,
+458,FINDINGS,48820,06/01/2022,Count,
+459,EVENTS,10022,12/11/2020,Count,
+460,EVENTS,1,31/01/2021,Count,
+461,FINDINGS,3000000,01/09/2021,Count,
+462,EVENTS,50224,26/11/2020,COUNT,
+463,PERSONS,1431000,12/11/2021,Prescriptions,
+464,PERSONS,25000,26/10/2021,Count,
+465,PERSONS,8000,01/03/2005,Count,
+466,PERSONS,13000,28/04/2021,Count,
+467,PERSONS,650,2021-02-01,Count,
+468,Persons,6390,2020-10-06,Count,
+469,Events,7057,27/09/2021,Count,
+470,PERSONS,2036,29/09/2021,Count,
+471,PERSONS,144909,26/11/2020,COUNT,
+472,PERSONS,24141005,22/10/2021,Count,
+473,EVENTS,323899,10/01/2022,Count,
+474,EVENTS,3200,04/01/2016,Count,
+475,PERSONS,46,01/08/2016,Count,
+476,PERSONS,"79,055",2019-02-25,Lung function,
+477,Findings,10559390,04/02/2022,Count,
+478,PERSONS,35047612,04/02/2022,count,
+479,EVENTS,"50,899 patients including Coagulopathy and Non-Coagulopathy control group.",2020-12-09,Count,
+480,Events,3255865,06/09/2021,Count,
+481,PERSONS,846,17/12/2021,Count,
+482,EVENTS,82268,26/10/2021,COUNT,
+483,PERSONS,3000000,01/09/2021,Count,
+484,EVENTS,165000,05/05/2021,Count,
+485,PERSONS,59,01/01/2017,Count,
+486,PERSONS,4391067,15/09/2021,Count,
+487,PERSONS,3000000,01/09/2021,Count,
+488,EVENTS,8024752,06/09/2021,Count,
+489,PERSONS,22536,26/11/2020,COUNT,
+490,PERSONS,67,24/06/2021,percentage,
+491,FINDINGS,3669,14/05/2021,Count,
+492,EVENTS,8024752,06/09/2021,Count,
+493,PERSONS,1578630,17/01/2021,count,
+494,EVENTS,7222,01/07/2019,Count,
+495,PERSONS,3255865,06/09/2021,Count,
+496,PERSONS,353,29/09/2021,Count,
+497,PERSONS,1082405,08/04/2021,COUNT,
+498,EVENTS,12435,03/01/2005,Count,
+499,PERSONS,286224,18/11/2020,Count,
+500,EVENTS,2745552,31/03/2021,Count,
+501,EVENTS,39802,2009-01-01 00:00:00,Count,
+502,PERSONS,35000000,04/02/2022,count,
+503,EVENTS,20827472,07/02/2022,Count,
+504,PERSONS,3756,08/01/2021,count,
+505,FINDINGS,7996758,20/01/2021,Count,
+506,EVENTS,4028187,20/07/2021,WRRS Observational results,
+507,FINDINGS,242629,08/04/2022,Count,
+508,EVENTS,35047612,04/02/2022,Count,
+509,EVENTS,"2,325,220",2021-02-28,Count,
+510,Persons,3000000,01/09/2021,Count,
+511,EVENTS,141921,17/05/2021,Count,
+512,EVENTS,151,31/12/2021,Count,
+513,PERSONS,35047612,04/02/2022,Count,
+514,EVENTS,1158177,17/03/2022,count,
+515,PERSONS,64389,19/07/2021,Count,
+516,EVENTS,136,01/12/2020,Count,
+517,EVENTS,98220,01/01/2020,Count,
+518,EVENTS," 2,653,250 ",2020-12-08,Count,
+519,Persons,3000000,01/01/2021,Count,
+520,PERSONS,18824070,2020-10-31,Count,
+521,Persons,17400000,18/11/2020,Count,
+522,EVENTS,"33,208 admissions ranging from 04-06-2015 until 17-11-2020",2021-01-11,Count,
+523,Events,12619,27/03/2022,Count,
+524,PERSONS,1022,30/09/2019,Count,
+525,PERSONS,3000000,01/09/2021,Count,
+526,EVENTS,18090,12/11/2020,Count,
+527,EVENTS,1090594,16/01/2021,count,
+528,EVENTS,385000,14/09/2021,Count,
+529,PERSONS,30000,23/04/2021,Count,
+530,PERSONS,901965,06/09/2021,Count,
+531,PERSONS," 29,965 ",2020-12-08,Count,
+532,Persons,32000,01/01/2021,Count,
+533,PERSONS,58035,2020-11-30,count,
+534,Persons,378135,04/02/2022,Count,
+535,PERSONS,3016279,01/09/2020,Count,
+536,FINDINGS,116000,31/08/2020,Count,
+537,PERSONS,128076,24/11/2021,Count,
+538,EVENTS,721005,20/08/2021,Count,
+539,EVENTS,12691,18/05/2021,Count,
+540,EVENTS,1,31/12/2020,Count,
+541,FINDINGS,16000,22/06/2021,Count,
+542,PERSONS,56,27/10/2014,Count,
+543,PERSONS,,,,

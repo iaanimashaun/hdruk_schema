@@ -1,0 +1,836 @@
+,spatial,typicalAgeRange,physicalSampleAvailability,followup,pathway
+0,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],0 - 6 MONTHS,COVID-19
+1,https://www.geonames.org/2634895/,0-150,['NOT AVAILABLE'],OTHER,Secondary care data only
+2,https://www.geonames.org/2638360/scotland.html,4-19,['NOT AVAILABLE'],CONTINUOUS,"UK Biobank is a volunteer based cohort. As such, there is a healthy volunteer effect that results in participants tending to be of higher socioeconomic status, remaining in education longer, slimmer, less smokers (although those that smoke tend to be heavier smokers) and lower consumers of alcohol than the general population. A comparison between UK Biobank participants and the general UK population has been published (https://doi.org/10.1093/aje/kwx246).
+
+Whilst selection biases are seen in UK Biobank, there is still substantial heterogeneity within the cohort. Whilst incidence and prevalence calculations are not generalisable to the UK population, exposure-outcome comparisons should be due to the heterogeneity in the cohort. However, it is important that researchers consider the potential biases of a data set that might limit generalisability of their results (as is the case for all observational data)."
+3,England and Wales,Not Known,"['SALIVA', 'TISSUE', 'WHOLE BLOOD']",0 - 6 MONTHS,"All people 16 years of age and above who have been admitted to hospital (adult ward) with a primary diagnosis of an asthma attack and coded with the following ICD-10 codes in the primary position of the first episode of care:
+
+• J45.0 - Predominantly allergic asthma
+• J45.9 - Asthma, unspecified
+• J46.X - Status asthmaticus (Includes: Acute severe asthma)"
+4,England,0-4,"['CDNA/MRNA', 'TISSUE']",1 - 10 YEARS,"This dataset covers the COVID admissions in hospitals, each patient is identified using a unique patient key which can be used to link with other datasets to understand the patient pathway"
+5,England,18-75,"['SERUM', 'PLASMA', 'WHOLE BLOOD', 'SALIVA', 'URINE']",OTHER,Secondary care
+6,['https://www.geonames.org/6252001/united-states.html'],40-69,"['DNA', 'PLASMA', 'SERUM', 'TISSUE']",> 10 YEARS,Covid-19 specific
+7,['United Kingdom'],40-150,['NOT AVAILABLE'],1 - 10 YEARS,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data.  A matched non-COVID control population can be generated upon request."
+8,England,>18,['NOT AVAILABLE'],OTHER,COVID-19
+9,India,16-100,['NOT AVAILABLE'],OTHER,All pathways pertaining to cancer
+10,"['https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",18-85,['SERUM'],OTHER,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data. Data includes those with and without COPD admitted during the first wave of the COVID pandemic."
+11,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],18-65,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+12,London,0-150,"['DNA', 'PLASMA', 'SERUM']",0 - 6 MONTHS,Not Applicable. Careers dataset.
+13,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,18-85,['NOT AVAILABLE'],UNKNOWN,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+14,['https://www.geonames.org/2635167/united-kingdom.html'],60-74,['NOT AVAILABLE'],0 - 6 MONTHS,"The West Midlands (WM) has a population of 5.9 million & includes a diverse ethnic, socio-economic mix. There is a higher than average percentage of minority ethnic groups with Birmingham having a population which is >40% non-white. Birmingham is one of the youngest cities in Europe and has a birth rate that is higher than average (The General Fertility Rate was 69.7 births per thousand population and the Total Fertility Rate was 2.04 children per woman in 2016, both higher than the average for the UK).  Unfortunately Birmingham also has a higher than average infant mortality rate and a higher than average incidence of maternal complications.  There is social deprivation and Birmingham’s population suffers with particularly high rates of physical inactivity, obesity, smoking & diabetes.  There are also high levels of rare diseases, especially immunometabolic conditions.   The patients included in this dataset are representative of this diverse population and also include a wide age-range.    University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest NHS Trusts in England, providing direct acute services & specialist care across four hospital sites, with 2.2 million patient episodes per year, 2750 beds & 100 ITU beds. UHB runs a fully electronic healthcare record (EHR) (PICS; Birmingham Systems), a shared primary & secondary care record (Your Care Connected) & a patient portal “My Health”.   This dataset includes the patient journey from admission to hospital to outcome for pregnant and post-partum patients admitted to a general hospital. The data includes granular demography and co-morbidity, presenting symptoms and diagnoses, serial physiology and blood biomarkers, all investigations, all prescribed and administered treatments and outcomes.   It can be supplemented with preceding and following health care contacts, to understand the risk for the acute admission during pregnancy and the subsequent impact on health after discharge. Although primarily secondary care, this dataset can be supplemented with ambulance and primary care data on request.  PIONEER can also offer synthetic data, images and access to a secure Trusted Research Environment for analytics and AI.   PIONEER can assist with analytics, model build, validation & refinement; A.I.; Data partner support for ETL (extract, transform & load) process, Clinical expertise, Patient & end-user access, Purchaser access, Regulatory requirements, Data-driven trials, “fast screen” services."
+15,Wales,0-150,['IN PROGRESS'],OTHER,"The NICOR datasets focus primarily on secondary care and therefore do not cover the whole patient pathway. The audit data may be linked with other primary cars datasets e.g., General Practice Extraction Services (GPES) to give a better understanding of care pathways and how disease and treatments are managed over time."
+16,Wales,15-150,"['DNA', 'PLASMA', 'SERUM', 'WHOLE BLOOD']",OTHER,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+17,England,0-150,['NOT AVAILABLE'],UNKNOWN,"Human tissue samples collected from patients who attend routine diagnostic procedures at commercial laboratories and hospitals, especially for COVID related tests"
+18,Scotland,0-100,['NOT AVAILABLE'],UNKNOWN,All pathways at primary and secondary tiers of care
+19,"West Midlands Region, UK",30-89,['NOT AVAILABLE'],UNKNOWN,All pathways at primary and secondary tiers of care.
+20,England,0-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+21,https://www.geonames.org/2634895/,0-150,['NOT AVAILABLE'],UNKNOWN,Secondary care
+22,['https://www.geonames.org/2634895/wales.html'],18-108,['NOT AVAILABLE'],UNKNOWN,All pathways about patients living in Wales
+23,West Midlands,50-70,['Not Available'],> 10 YEARS,All pathways at this point of care
+24,['https://www.geonames.org/2634895/wales.html'],16-150,['NOT AVAILABLE'],OTHER,Secondary care
+25,Wales,18-150,['NOT AVAILABLE'],OTHER,Secondary care (plans to include primary and community care)
+26,['https://www.geonames.org/1733045/malaysia.html'],0-150,['NOT AVAILABLE'],OTHER,Cancer
+27,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+28,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,GP data: Primary electronic health records only
+29,['https://www.geonames.org/2636157/tayside-region.html'],10-55,"['SERUM', 'TISSUE']",OTHER,"The NICOR datasets focus primarily on secondary care and therfore do not cover the whole patient pathway. The audit data may be linked with other primary cars datasets e.g, General Practice Extraction Services (GPES) to give a better undestanding of care pathways and how disease and treatments are manged over time."
+30,"West Midlands Region, UK",18-150,['NOT AVAILABLE'],OTHER,dementia care in general hospitals
+31,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",40-150,['NOT AVAILABLE'],OTHER,COVID-19
+32,England,0-150,['NOT AVAILABLE'],1 - 10 YEARS,All pathways about emergency services and NHS 111 responses.
+33,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-150,['NOT AVAILABLE'],UNKNOWN,Cancer registration data are collected from a range of health care provider systems and other services.
+34,['https://www.geonames.org/1168579/islamic-republic-of-pakistan.html'],79-92,['NOT AVAILABLE'],6 - 12 MONTHS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+35,['http://www.geonames.org/2638360/scotland.html'],0-150,['TISSUE'],OTHER,Relates to virus sequencing for COVID-19 only
+36,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,Single specialty - occupational therapy services in secondary care and community services
+37,https://www.geonames.org/2634895/wales.html,0-150,['NOT AVAILABLE'],UNKNOWN,Secondary care records for Tayside and Fife
+38,England & Wales,0-115,['NOT AVAILABLE'],UNKNOWN,"Scope: All people undergoing cataract surgery from Dec 2004 onwards. Secondary care hospital visual outcome data including 
+• Demographic information (including age, sex and ethnicity)
+• Preoperative Visual acuity
+• Biometry details (including axial length and keratometry values)
+• Surgery details
+• Post-operative outcomes (including complications)"
+39,['https://www.geonames.org/6269131/england.html'],11-13,"['PLASMA', 'SERUM', 'TISSUE']",UNKNOWN,Structure and resource of CYP asthma services December 2019 - February 2020.
+40,['https://www.geonames.org/2643743/london.html'],40-150,['NOT AVAILABLE'],OTHER,All pathways about prescribed adult physical activity
+41,England,0-150,['NOT AVAILABLE'],UNKNOWN,Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include even more granular hospital data.
+42,['https://www.geonames.org/2634895/wales.html'],0-150,"['DNA', 'PLASMA', 'SERUM']",OTHER,Linked datasets cover secondary care.
+43,['https://www.geonames.org/2634895/wales.html'],>18,['IN PROGRESS'],OTHER,"Secondary care, ICU"
+44,India,15-150,['TISSUE'],OTHER,Single specialty - physiotherapy
+45,England,0-150,"['PLASMA', 'SERUM', 'TISSUE', 'URINE']",6 - 12 MONTHS,Cancer
+46,Scotland,0-150,['NOT AVAILABLE'],UNKNOWN,ALL demographic records for Tayside and Fife
+47,['https://www.geonames.org/2634895/wales.html'],18-85,['NOT AVAILABLE'],1 - 10 YEARS,Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include even more granular  hospital data.
+48,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,Primary care
+49,England,0-150,['NOT AVAILABLE'],UNKNOWN,NOT APPLICABLE
+50,England,40-150,['IN PROGRESS'],UNKNOWN,Linked datasets cover secondary care.
+51,England,0-150,['NOT AVAILABLE'],OTHER,Covid-19 specific deaths
+52,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",0-150,['NOT AVAILABLE'],0 - 6 MONTHS,Single centre study
+53,https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html,0-150,['PLASMA'],0 - 6 MONTHS,"Dataset is representative of the patient pathway for community screening and grading. It covers standard UK PHE Diabetic Eye Screening requirements and will include patients receiving screening through the standard model, routine diabetic screening, surveillance and slit lamp"
+54,England,18-110,['NOT AVAILABLE'],> 10 YEARS,NOT APPLICABLE
+55,['https://www.geonames.org/2634343/west-midlands.html'],15-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+56,England,65-110,['NOT AVAILABLE'],OTHER,All critical care pathways
+57,https://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],6 - 12 MONTHS,Critical Care settings in England
+58,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",15-150,['NOT AVAILABLE'],OTHER,"The dataset includes all adults and children in the UK who are on kidney replacement therapy (KRT - kidney transplant or dialysis). The UK Renal Registry (UKRR) only collects data on adults with chronic kidney disease (CKD) who are under the care of hospital renal centres in the UK, i.e. the UKRR does not collect data on those with CKD in primary care. Those with CKD who are not on KRT generally only come under the care of renal centres once they have reached advanced CKD, i.e. stages 4 and 5. The UKRR collects data on all adults with an acute kidney injury (AKI) who receive dialysis at a hospital renal centre. The UKRR does not collect data on patients who receive dialysis in other settings for an AKI, e.g. in critical or intensive care."
+59,England,46-99,['NOT AVAILABLE'],UNKNOWN,Urgent and Emergency Care
+60,['https://www.geonames.org/6269131/england.html'],17-100,['NOT AVAILABLE'],0 - 6 MONTHS,Covid-19 specific
+61,['https://saildatabank.com/about-us/overview/'],0-120,"['DNA', 'PLASMA', 'SERUM']",OTHER,"The dataset is representative of the entire medical specialty of ophthalmology, encompassing the full range of subspecialties within this field."
+62,['https://www.geonames.org/2634895/wales.html'],0-115,['IN PROGRESS'],1 - 10 YEARS,"The dataset is limited to specialist palliative care services, both publicly and charitably funded."
+63,['https://www.geonames.org/6269131/england.html'],15-110,['NOT AVAILABLE'],UNKNOWN,All pathways about emergency services and NHS 111 responses.
+64,"['United Kingdom,England,West Midlands']",18-150,['NOT AVAILABLE'],OTHER,Primary care
+65,https://www.geonames.org/2641364/northern-ireland.html,0-150,['IN PROGRESS'],0 - 6 MONTHS,Linked datasets cover secondary care.
+66,['https://www.geonames.org/countries/GB/united-kingdom.html'],31-99,['NOT AVAILABLE'],OTHER,Intensive care pathway.
+67,"['United Kingdom,Scotland']",0-150,['NOT AVAILABLE'],> 10 YEARS,All pathways with prescription from primary care
+68,['https://www.geonames.org/2635167/united-kingdom.html'],18-85,['NOT AVAILABLE'],1 - 10 YEARS,"Data focuses on in-patient stay in hospital during the sepsis episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+69,England,Not Known,['NOT AVAILABLE'],UNKNOWN,Demographic records for Scotland based on postal code
+70,['https://www.geonames.org/2634343/west-midlands.html'],17-101,['NOT AVAILABLE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+71,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],OTHER,End of life care
+72,England,Not Known,['NOT AVAILABLE'],UNKNOWN,"Include patients:
+- who are 35 years and over on the date of admission,
+- who have been admitted to hospital adult services,
+- who have a primary diagnosis of COPD exacerbation,
+- where an initial, or unclear, diagnosis is revised to an acute exacerbation of chronic obstructive pulmonary disease (AECOPD). Also following ICD-10 codes in the primary position of the first episode of care:                   • J44.0 - Chronic obstructive pulmonary disease with acute lower respiratory infection.                                      • J44.1 - Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+• J44.8 - Other specified chronic obstructive pulmonary disease
+• J44.9 - Chronic obstructive pulmonary disease, unspecified."
+73,United Kingdom,0-150,['DNA'],OTHER,Cancer diagnosis and treatment pathway
+74,United Kingdom,0-150,"['FAECES', 'PLASMA', 'SALIVA', 'SERUM', 'URINE', 'WHOLE BLOOD']",1 - 10 YEARS,All of secondary care in relation to inpatient and day cases.
+75,"['https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",0-150,"['PLASMA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",CONTINUOUS,All higher education data pertaining to students
+76,UK,0-115,"['BONE MARROW', 'DNA', 'PERIPHERAL BLOOD CELLS', 'PLASMA', 'RNA', 'SERUM']",OTHER,Secondary care.
+77,['https://www.geonames.org/2635167/united-kingdom.html'],15-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+78,Wales,16-90,['NOT AVAILABLE'],> 10 YEARS,All pathways about cancer
+79,"West Midlands Region, UK",50-68,"['NOT AVAILABLE', 'CANCER CELL LINES']",1 - 10 YEARS,Family justice cases
+80,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],UNKNOWN,Relates to virus sequencing for COVID-19 only
+81,"England, UK",0-150,['NOT AVAILABLE'],1 - 10 YEARS,All pathways at this point of care
+82,UK,40-150,['IN PROGRESS'],OTHER,NOT APPLICABLE
+83,England,0-4,['NOT AVAILABLE'],UNKNOWN,COVID-19
+84,England,29-99,['NOT AVAILABLE'],OTHER,All of secondary care in relation to general acute inpatient and day cases.
+85,['https://geonames.org/countries/GB/united-kingdom.html'],18-120,['DNA'],OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+86,https://www.geonames.org/2634895/wales.html,0-150,['NOT AVAILABLE'],OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+87,"['United Kingdom,Scotland']",16-90,['NOT AVAILABLE'],OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+88,"West Midlands Region, UK",0-115,['NOT AVAILABLE'],1 - 10 YEARS,"The dataset cover asthma outcomes and care captured across several levels of care, including primary, emergency, and secondary care, in addition to asthma-related death."
+89,['https://www.geonames.org/2635167/united-kingdom.html'],Not Known,"['PERIPHERAL BLOOD CELLS', 'PLASMA', 'SERUM']",UNKNOWN,N/A - this is a survey of services
+90,England,0-150,['NOT AVAILABLE'],OTHER,Neonatal Unit stay
+91,['https://www.geonames.org/countries/GB/united-kingdom.html'],0-150,['NOT AVAILABLE'],UNKNOWN,Primary care
+92,"['United Kingdom,Wales', 'United Kingdom,England']",0-150,['NOT AVAILABLE'],0 - 6 MONTHS,Data relates to a single specialty area -new and review appointments in ED departments
+93,"England, UK",18-150,['NOT AVAILABLE'],> 10 YEARS,Not Applicable
+94,https://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],OTHER,All emergency services pathways
+95,['https://www.geonames.org/2634895/wales.html'],18-75,['NOT AVAILABLE'],OTHER,dementia care in general hospitals
+96,"['United Kingdom,England,East Midlands,Nottingham']",40-150,['NOT AVAILABLE'],> 10 YEARS,ALL primary and secondary care LIMS records for Tayside & Fife
+97,England,0-150,['NOT AVAILABLE'],OTHER,"The UHB glaucoma dataset is representative of the patient pathway for diagnosis and treatment of glaucoma, and longitudinal follow-up."
+98,UK,12-150,['NOT AVAILABLE'],1 - 10 YEARS,"This dataset contains all pathology data for patients in NWL. Each patient will be identifed using an unique patient key, patient keys can be used to link to other datasets to understand the patient pathway"
+99,['https://www.geonames.org/11591953/west-midlands.html'],0-150,['NOT AVAILABLE'],UNKNOWN,All pathways pertaining to congenital anomalies
+100,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],UNKNOWN,Pathways pertaining to exercise treatments and physical activity prescribed
+101,International,0-100,['NOT AVAILABLE'],OTHER,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+102,https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html,16-150,['OTHER'],OTHER,All pathways pertaining to congenital anomalies
+103,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],OTHER,Only intensive care data
+104,Wales,0-150,['AVAILABILITY TO BE CONFIRMED'],OTHER,Secondary
+105,"['United Kingdom,England']",0-115,['NOT AVAILABLE'],UNKNOWN,Secondary care
+106,https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html,0-150,['NOT AVAILABLE'],OTHER,"The dataset is representative of paediatric diabetes care, where participants were recruited from. Very few children or young people with diabetes would be managed outside of this setting."
+107,http://www.geonames.org/6269131/england.html,0-150,"['DNA', 'PLASMA', 'SERUM', 'URINE', 'WHOLE BLOOD']",0 - 6 MONTHS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+108,['https://www.geonames.org/2634895/wales.html'],0-150,"['DNA', 'TISSUE']",OTHER,All pathways about prescribed adult physical activity
+109,United Kingdom,0-120,"['PERIPHERAL BLOOD CELLS', 'PLASMA', 'SERUM', 'TISSUE', 'URINE', 'WHOLE BLOOD']",0 - 6 MONTHS,All secondary care elective pathways
+110,['WorldWide'],0-150,['DNA'],OTHER,COVID-19 vaccination centres and primary care
+111,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],18-85,['NOT AVAILABLE'],OTHER,"This dataset contains all outpatient activity related to NWL patient population. Each patient would be identifiable using an unique patient key that can be used to link to other datasets, this will help track the patient pathway"
+112,Wales,0-120,['IN PROGRESS'],0 - 6 MONTHS,"DID data is submitted by secondary providers. It includes a number of fields indicating the patient pathway. For insurance, the Patient Source Setting field describes how a patient was referred to receive a diagnostic imaging test. Possible options are:
+Admitted Patient Care - Inpatient (this Health Care Provider)
+Admitted Patient Care - Day case (this Health Care Provider)
+Out-patient (this Health Care Provider)
+GP Direct Access
+Accident and Emergency Department (this Health Care Provider)
+Other Health Care Provider
+Other
+DID also includes fields indicating the individual and organisation that referred the patient. However, in some instances the latter is not always populated. Similarly, there are fields indicating the date a referral for diagnostic imaging was made and when it was received. As with the referring organisation, there are some instances when these are not populated."
+113,['https://www.geonames.org/2634895/wales.html'],18-150,['NOT AVAILABLE'],> 10 YEARS,Secondary care
+114,Scotland,40-150,['NOT AVAILABLE'],OTHER,Education
+115,England,0-12,['TISSUE'],1 - 10 YEARS,The dataset represents Hospital inpatient stays for COVID-19 infections but also includes data describing clinical contact in the Emergency Department and Outpatients.
+116,England,15-150,['NOT AVAILABLE'],UNKNOWN,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data.  A matched non-COVID control population can be generated upon request."
+117,"England, UK",0-150,"['DNA', 'TISSUE']",UNKNOWN,Family justice cases
+118,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",0-150,['NOT AVAILABLE'],OTHER,All pathways about social care
+119,Wales,Not Known,"['DNA', 'PLASMA', 'SERUM']",OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+120,Wales,0-150,['NOT AVAILABLE'],UNKNOWN,NOT APPLICABLE
+121,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],0-150,['NOT AVAILABLE'],1 - 10 YEARS,"All children aged 1-18 years old who have been admitted to hospital (paediatric ward) with a primary diagnosis of asthma attack and coded with the following ICD-10 codes in the primary position of the first episode of care:
+
+J45.0 – Predominantly allergic asthma
+J45.1 – Nonallergic asthma
+J45.8 – Mixed asthma
+J45.9 – Asthma, unspecified
+J46 – Status asthmaticus (includes  acute severe asthma"
+122,England,40-150,['NOT AVAILABLE'],UNKNOWN,All pathways at primary and secondary tiers of care
+123,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,NOT APPLICABLE
+124,['https://www.geonames.org/2638360/scotland.html'],0-4,['NOT AVAILABLE'],> 10 YEARS,All emergency services pathways
+125,Scotland,15-44,['AVAILABILITY TO BE CONFIRMED'],UNKNOWN,NOT APPLICABLE
+126,"West Midlands Region, UK",0-110,['NOT AVAILABLE'],6 - 12 MONTHS,All maternity pathways
+127,['https://www.geonames.org/2635167/united-kingdom.html'],18-85,['IN PROGRESS'],0 - 6 MONTHS,"Primary Care Prescriptions covers all General Practices in NWL using EMIS or S1. This provides details of supply of prescriptions, issue date, primary care organisation that issued as well as whether it is a repeat or one-off prescription."
+128,"['United Kingdom,Scotland']",0-150,['TISSUE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+129,['https://www.geonames.org/2634343/west-midlands.html'],18-93,['NOT AVAILABLE'],UNKNOWN,Characteristics of hospitals in the UK that provided vascular surgical services in August 2018
+130,https://www.geonames.org/1210997/bangladesh.html,0-2,['NOT AVAILABLE'],OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+131,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/6269131/england.html']",18-150,['DNA'],OTHER,All pathways about prescribed systemic anti-cancer therapy.
+132,"['https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",35-100,['NOT AVAILABLE'],OTHER,Covid
+133,Wales,0-18,"['DNA', 'PLASMA', 'SERUM']",UNKNOWN,patients with suspected or confirmed early inflammatory arthritis
+134,https://www.geonames.org/2644688/leeds.html,0-150,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+135,['https://www.geonames.org/2638360/scotland.html'],0-150,['NOT AVAILABLE'],1 - 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+136,England,Not Known,['NOT AVAILABLE'],1 - 10 YEARS,"Primary care, secondary care, COVID testing and vaccinations, deaths, ITU/HDU admissions, prescribing/dispensing, cardiovascular audits (NICOR), stroke audits (SSNAP), maternity services, mental health"
+137,England,15-150,['NOT AVAILABLE'],1 - 10 YEARS,dementia care in general hospitals
+138,['https://www.geonames.org/2634895/wales.html'],0-18,['NOT AVAILABLE'],0 - 6 MONTHS,dementia care in general hospitals
+139,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],OTHER,Administrative. Linkable to health datasets across patient pathway.
+140,"England,UK",0-150,['NOT AVAILABLE'],1 - 10 YEARS,"The Airwave Health Monitoring Study is a cohort study including c. 53,000 police officers and staff from Great Britain. Participants were recruited at baseline study between 2004-2015 and followed up through health screening visits, questionnaire and medical records."
+141,http://www.geonames.org/6269131/england.html,16-150,['NOT AVAILABLE'],> 10 YEARS,Primary and secondary care
+142,England (https://www.geonames.org/6269131/england.html),18-85,['NOT AVAILABLE'],OTHER,"Care package data relating to patients registered with a NWL GP. A locally agreed data set between NWL boroughs and commissioners has defined data items such as start and end dates, allocated teams and service descriptions."
+143,https://www.geonames.org/2634895/wales.html,0-150,['IN PROGRESS'],1 - 10 YEARS,NOT APPLICABLE
+144,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],0 - 6 MONTHS,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data. Data includes those with and without COVID admitted during the first wave of the COVID pandemic."
+145,['https://www.geonames.org/6269131/england.html'],0-115,['NOT AVAILABLE'],6 - 12 MONTHS,Secondary care
+146,"['United Kingdom,England']",0-18,['NOT AVAILABLE'],OTHER,Secondary care
+147,https://www.geonames.org/2641364/northern-ireland.html,0-150,['NOT AVAILABLE'],OTHER,Hospital
+148,Wales,0-150,['NOT AVAILABLE'],OTHER,Dataset collected during the initial COVID-19 phase with first data collection phase primarily in April 2020 and second in June 2021.  Data collected by survey from people self-identifying as having a diagnosis of IBD and at risk from COVID-19 due to a combination of risk factors set out by the BSG
+149,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,18-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+150,['https://www.geonames.org/2638360/scotland.html'],0-150,['NOT AVAILABLE'],OTHER,Potential covid-19 cases
+151,http://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],OTHER,Secondary care
+152,England,15-150,['IN PROGRESS'],0 - 6 MONTHS,Cancer registration data are collected from a range of health care provider systems and other services.
+153,https://www.geonames.org/2634895/,0-150,['NOT AVAILABLE'],OTHER,Covid
+154,https://www.geonames.org/2638360/scotland.html,0-150,['NOT AVAILABLE'],UNKNOWN,"The NICOR datasets focus primarily on secondary care and therfore do not cover the whole patient pathway. The audit data may be linked with other primary cars datasets e.g, General Practice Extraction Services (GPES) to give a better undestanding of care pathways and how disease and treatments are manged over time."
+155,"['United Kingdom,England,West Midlands']",18-110,['NOT AVAILABLE'],OTHER,Secondary care
+156,['https://www.geonames.org/6269131/england.html'],16-96,['NOT AVAILABLE'],OTHER,"The NICOR datasets focus primarily on secondary care and therfore do not cover the whole patient pathway. The audit data may be linked with other primary cars datasets e.g, General Practice Extraction Services (GPES) to give a better undestanding of care pathways and how disease and treatments are manged over time."
+157,"['United Kingdom,England,West Midlands']",0-115,['NOT AVAILABLE'],OTHER,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+158,['https://www.geonames.org/6269131/england.html'],60-150,['TISSUE'],1 - 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+159,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],> 10 YEARS,"This dataset contains all A&E attendances for NWL patients. Each patient will be identified using an unique patient key, this can be used to link to other Discover-NOW datasets that will help track the patient pathway"
+160,Wales,18-150,"['DNA', 'PLASMA', 'SERUM']",OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+161,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",Not Known,['NOT AVAILABLE'],UNKNOWN,Secondary care
+162,England,0-1,['NOT AVAILABLE'],1 - 10 YEARS,Education
+163,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/3042225/isle-of-man.html']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,"The independent datasets don't show the full patient pathway. We can include other datasets (Clock Stops, Clock Starts and Open Pathways) in views to show the full patient pathway). This dataset contains all diagnostic waits using a patient pathway identifier to link to patient activity related to NWL patient population."
+164,['https://www.geonames.org/countries/GB/united-kingdom.html'],0-150,['NOT AVAILABLE'],UNKNOWN,"The dataset is representative of the entire medical specialty of ophthalmology, encompassing the full range of subspecialties within this field."
+165,https://www.geonames.org/2641364/northern-ireland.html,0-150,['SALIVA'],OTHER,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+166,['https://www.geonames.org/2634895/wales.html'],0-150,"['DNA', 'IMMORTALIZED CELL LINES']",UNKNOWN,"The NWL MH linked table holds activity data from Mental health providers and contains the type and location of care received, episodes of care, diagnoses and questionnaire scores for individuals who have accessed adult mental health services within NWL."
+167,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],OTHER,Secondary care
+168,England,18-85,"['DNA', 'FAECES', 'PLASMA', 'SERUM', 'URINE']",OTHER,The dataset is representative of the entire pathway for patients receiving treatment for age-related macular degeneration (AMD) in the Medical Retina service at Moorfields Eye Hospital.
+169,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,Integrated care record covering the whole cancer patient pathway.
+170,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],18-99,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+171,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",12-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+172,['https://www.geonames.org/1733045/malaysia.html'],15-44,['NOT AVAILABLE'],1 - 10 YEARS,This dataset provides the full NWL population which identifies every patient through an unique patient key. This can be used to link to all other datasets to get a better understanding of the patient pathways
+173,Malaysia,15-150,['NOT AVAILABLE'],> 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white).  Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care.  Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+174,['https://www.geonames.org/11591953/west-midlands.html'],0-150,['NOT AVAILABLE'],OTHER,"This dataset contains all Inpatient admissions for NWL patients. Each patient will be identified using an unique patient key, this can be used to link to other Discover-NOW datasets that will help track the patient pathway"
+175,England,15-150,['NOT AVAILABLE'],UNKNOWN,Not applicable
+176,England,0-4,['NOT AVAILABLE'],UNKNOWN,Secondary care
+177,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,16-150,['NOT AVAILABLE'],OTHER,Secondary care cancer pathways.
+178,England,0-110,['NOT AVAILABLE'],1 - 10 YEARS,Intensive care pathway.
+179,Wales,18-64,['NOT AVAILABLE'],> 10 YEARS,ALL primary and secondary care LIMS records for Tayside
+180,['https://www.geonames.org/2634895/wales.html'],0-150,"['DNA', 'PLASMA', 'SERUM']",> 10 YEARS,Cancer
+181,"West Midlands Region, UK",0-150,['NOT AVAILABLE'],OTHER,Intensive Care
+182,['https://www.geonames.org/1210997/bangladesh.html'],0-4,"['DNA', 'PLASMA', 'SERUM']",0 - 6 MONTHS,"Primary care, secondary care, COVID testing, COVID vaccinations, deaths, ITU/HDU admissions, prescribing/dispensing, cardiovascular audits (NICOR), stroke audits (SSNAP), national vascular registry"
+183,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+184,['https://www.geonames.org/2638360/scotland.html'],0-4,['IN PROGRESS'],OTHER,All pathways about cancer
+185,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,All diagnostic and therapy pathways
+186,Wales,4-19,['NOT AVAILABLE'],OTHER,Not Applicable. Careers dataset.
+187,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",18-85,['NOT AVAILABLE'],1 - 10 YEARS,ALL primary and secondary care LIMS records for Fife
+188,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),18-85,"['PLASMA', 'PM TISSUE', 'TISSUE']",1 - 10 YEARS,Secondary care data only
+189,https://www.geonames.org/2635167/united-kingdom.html,17-110,['NOT AVAILABLE'],OTHER,"The NICOR datasets focus primarily on secondary care and therfore do not cover the whole patient pathway. The audit data may be linked with other primary cars datasets e.g, General Practice Extraction Services (GPES) to give a better undestanding of care pathways and how disease and treatments are manged over time."
+190,['https://www.geonames.org/2634343/west-midlands.html'],18-85,['NOT AVAILABLE'],OTHER,"The independent datasets don't show the full patient pathway. We can include other datasets (Clock Starts, Diagnostics and Open Pathways) in views to show the full patient pathway). This dataset contains all RTT Clock Stops using a patient key to link to patient activity related to NWL patient population."
+191,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),15-150,['NOT AVAILABLE'],1 - 10 YEARS,"Patients may only experience an acute kidney injury (AKI) once in their life, or they may have multiple episodes. The AKI lab dataset captures AKI e-alerts for all children and adults who trigger an AKI alert in both primary and secondary care in England. Data collection is mandated by NHS England and in 2019 96% of laboratories submitted data."
+192,['https://www.geonames.org/2634895/wales.html'],Not Known,['NOT AVAILABLE'],1 - 10 YEARS,All diabetic patients over Tayside and Fife
+193,Scotland,0-150,['PM TISSUE'],OTHER,NOT APPLICABLE
+194,['https://www.geonames.org/2634895/wales.html'],0-115,['NOT AVAILABLE'],UNKNOWN,Secondary care
+195,"['United Kingdom,England']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,Death data is sourced from either the Scottish General Registry Office or the Community Health Index data feeds.
+196,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,15-150,['NOT AVAILABLE'],UNKNOWN,This is the patient index table generated from primary care registrations. Each patient will have an unique patient key that can be used to link to all other metadata available through Discover-NOW hub
+197,England,0-150,['NOT AVAILABLE'],UNKNOWN,Secondary Mental Health Care Pathway except adult Improving Access to Psychological Therapies (IAPT)
+198,http://www.geonames.org/6269131/england.html,0-115,['NOT AVAILABLE'],OTHER,"This dataset is representative of the patient pathway for community screening of diabetic eye disease and grading.  This DES dataset is linked within this dataset to include those patients who were then subsequently seen at the Ophthalmology Department at the Queen Elizabeth Hospital, University Hospitals Birmingham NHS Trust for worsening of their diabetic eye disease.  This limits the dataset to only those patients who have been seen both in screening and then subsequently in the hospital for eye disease"
+199,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,"The West Midlands (WM) has a population of 5.9million & includes a diverse ethnic, socio-economic mix. There is a higher than average percentage of minority ethnic groups with Birmingham having a population which is >40% non-white. WM has a large number of elderly residents but Birmingham is one of the youngest cities in the UK.  There is social deprivation and Birmingham’s population suffers with particularly high rates of illness; including cerebrovascular Disease, physical inactivity, obesity, smoking, hypertension, ischaemic heart disease & diabetes.  There are also high levels of rare diseases, especially immunometabolic conditions. This in turns leads to high levels of infections.    The patients included in this dataset are representative of this diverse population and also include a wide age-range. 
+
+University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest NHS Trusts in England, providing direct acute services & specialist care across four hospital sites, with 2.2 million patient episodes per year, 2750 beds & 100 ITU beds. UHB runs a fully electronic healthcare record (EHR) (PICS; Birmingham Systems), a shared primary & secondary care record (Your Care Connected) & a patient portal “My Health”."
+200,https://www.geonames.org/2634895/wales.html,0-5,['NOT AVAILABLE'],1 - 10 YEARS,The dataset is representative of the entire pathway for patients receiving treatment for age-related macular degeneration (AMD) at Moorfields Eye Hospital NHS Foundation Trust .
+201,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,40-150,['NOT AVAILABLE'],> 10 YEARS,"Enumerating the impact of COVID-19 on cancer pathways: a robust evaluation of the NHS Digital Trusted Research Environment (TRE).
+ 
+We will delineate the precise impact of the COVID 19 pandemic on cancer systems and cancer patients. This requires access to both historical data (pre 2020) and near real-time data on patients referred with (i) a suspicion of cancer and (ii) those diagnosed with and/or managed for cancer. Our emphasis is on data on cancer referral, cancer diagnosis, cancer treatment and cancer outcomes, examining the impact of age, ethnicity, deprivation, comorbidity and concurrent medication.
+ 
+We will examine the effects of COVID-19 on:
+•	Cancer referral (including those which lead to a cancer diagnosis and those where cancer is excluded)
+•	Cancer diagnosis (including date, tumour site, stage, grade, morphology and key molecular/genetic/ phenotype)
+•	Cancer treatment (including surgical procedures, chemotherapy/targeted therapy and radiotherapy) 
+•	Clinical trial activity including recruitment to and active treatment within trials 
+•	Outcomes (including both hospital admission, survival, mortality and cause of death)
+•	COVID status (including COVID testing (Pillar 1&2) and results, acute hospitalisation and related direct COVID deaths in cancer patients). We will also examine the interaction and impact of other factors including 
+•	Age
+•	Ethnicity
+•	Social deprivation (IMD quintile)
+•	Comorbidity (based on both hospital and primary care data) 
+•	Concurrent medication (including both hospital and primary care data)
+•	Geography including rurality and health care region
+•	Rates of COVID infection, hospitalisation and death in discrete health care regions 
+ 
+We will compare activity from 2019 and 2020 but to include patients diagnosed with cancer at any time before then."
+202,England,1-120,['NOT AVAILABLE'],1 - 10 YEARS,The data set focusses on a single specialty (respiratory) and includes adult patients recruited through a single hospital trust.
+203,https://www.geonames.org/2648110/greater-london.html,0-100,['NOT AVAILABLE'],0 - 6 MONTHS,"The dataset is representative of the entire medical specialty of ophthalmology, encompassing the full range of subspecialties within this field."
+204,"West Midlands Region, UK",0-25,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+205,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-18,['NOT AVAILABLE'],UNKNOWN,NOT APPLICABLE
+206,Wales,17-100,['NOT AVAILABLE'],1 - 10 YEARS,Not Applicable
+207,['https://www.geonames.org/1733045/malaysia.html'],2-59 months,['NOT AVAILABLE'],1 - 10 YEARS,Fit and well
+208,Wales,0-115,['NOT AVAILABLE'],UNKNOWN,Intensive Care
+209,India,0-150,['NOT AVAILABLE'],> 10 YEARS,patients with suspected or confirmed early inflammatory arthritis
+210,England,1-18,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+211,"['https://www.geonames.org/6269131/', 'https://www.geonames.org/2634895/']",0-150,['NOT AVAILABLE'],UNKNOWN,Administrative Dataset - Schools
+212,"['https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",0-150,"['TISSUE', 'WHOLE BLOOD']",> 10 YEARS,NOT APPLICABLE
+213,UK,0-150,['NOT AVAILABLE'],> 10 YEARS,"The independent datasets don't show the full patient pathway. We can include other datasets (Clock Stops, Diagnostics and Open Pathways) in views to show the full patient pathway.
+
+This dataset contains all RTT Clock Starts using a patient pathway identifier to link to patient activity related to NWL patient population."
+214,https://www.geonames.org/2634895/wales.html,0-150,['IN PROGRESS'],1 - 10 YEARS,The dataset is representative of the entire pathway for patients receiving treatment for diabetic macular oedema (DMO) in the Medical Retina service at Moorfields Eye Hospital NHS Foundation Trust.
+215,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",>18,['NOT AVAILABLE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+216,Wales,0-150,['NOT AVAILABLE'],> 10 YEARS,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data.  A matched non-COVID control population can be generated upon request."
+217,India,0-150,['NOT AVAILABLE'],1 - 10 YEARS,"UK Biobank broadly representative general population (with caveats explained in UK Biobank publications), cases and controls were defined from extremes and the middle of the % predicted FEV1 distribution among never-smokers and heavy smokers (defined from UK Biobank baseline spirometry and total (pack-years) smoking exposure)"
+218,"['https://www.geonames.org/6269131', 'https://www.geonames.org/2634895']",0-5,"['DNA', 'PLASMA', 'SERUM']",> 10 YEARS,dementia care in general hospitals
+219,Wales,15-150,['NOT AVAILABLE'],UNKNOWN,The dataset is representative of paediatric diabetes care as 100% of paediatric units submit. Very few children or young people with diabetes would be managed outside of this setting.
+220,['https://www.geonames.org/1733045/malaysia.html'],18-85,['NOT AVAILABLE'],1 - 10 YEARS,Pathways pertaining to exercise treatments and physical activity prescribed
+221,Scotland,Not Known,['NOT AVAILABLE'],> 10 YEARS,Secondary Care pathway. This dataset covers outpatient appointments at hospitals in England. It includes information on the treatment and outcome of the appointment.
+222,['https://www.geonames.org/2635167/united-kingdom.html'],0-150,['NOT AVAILABLE'],OTHER,The dataset is representative of the entire pathway for patients receiving treatment for diabetic macular oedema (DMO) in the Medical Retina service at Moorfields Eye Hospital.
+223,England,16-105,['NOT AVAILABLE'],UNKNOWN,"X-Rays, CTs and MRIs"
+224,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,18-85,['NOT AVAILABLE'],OTHER,Pathways pertaining to adult learning
+225,['https://www.geonames.org/2634343/west-midlands.html'],0-115,['NOT AVAILABLE'],OTHER,Data are not associated with a patient pathway.
+226,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],OTHER,All maternity pathways
+227,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),16-100,['IN PROGRESS'],OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+228,['https://www.geonames.org/6269131/england.html'],0-150,"['DNA', 'PLASMA', 'SERUM']",UNKNOWN,Covid-19
+229,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",0-150,"['PLASMA', 'URINE', 'WHOLE BLOOD']",OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+230,['https://www.geonames.org/2643743/london.html'],16-150,['NOT AVAILABLE'],OTHER,"The West Midlands (WM) has a population of 5.9 million and includes a diverse ethnic, socio-economic mix. There is a higher than average percentage of minority ethnic groups with Birmingham having a population which is more than 40% non-white. WM has a large number of elderly residents but Birmingham is one of the youngest cities in the UK.  There is social deprivation and Birmingham’s population suffers with particularly high rates of illness; including cerebrovascular disease, physical inactivity, obesity, smoking, hypertension, ischaemic heart disease and diabetes.  There are also high levels of rare diseases, especially immunometabolic conditions. This in turn leads to high levels of infections. The patients included in this dataset are representative of this diverse population and also include a wide age range. 
+
+University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest NHS Trusts in England, providing direct acute services and specialist care across four hospital sites, with 2.2 million patient episodes per year, 2750 beds and 100 ITU beds. UHB runs a fully electronic healthcare record (EHR) (PICS; Birmingham Systems), a shared primary and secondary care record (Your Care Connected) and a patient portal “My Health”."
+231,Wales,0-115,['NOT AVAILABLE'],0 - 6 MONTHS,Secondary care records for Tayside and Fife
+232,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",18-110,['NOT AVAILABLE'],UNKNOWN,Education
+233,['https://www.geonames.org/6269131/england.html'],>18,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+234,India,15-150,['NOT AVAILABLE'],UNKNOWN,Administrative data. can be linked to health data across all pathways.
+235,England,18-85,['NOT AVAILABLE'],UNKNOWN,patients with suspected or confirmed early inflammatory arthritis
+236,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],15-150,['NOT AVAILABLE'],UNKNOWN,This dataset deals with COVID-19 vaccinations only.
+237,England,0-115,"['PLASMA', 'SERUM', 'DNA', 'AVAILABILITY TO BE CONFIRMED']",1 - 10 YEARS,All of secondary care in relation to appointments and attendances
+238,['https://www.geonames.org/6269131/england.html'],18-110,['NOT AVAILABLE'],1 - 10 YEARS,Specialised commissioning dataset for high risk patients
+239,"['United Kingdom,England,West Midlands']",0-115,['NOT AVAILABLE'],0 - 6 MONTHS,"Views of the retina are core to the Diabetic Retinal Screening Programme and as such are a record of the patient, and provide the evidence to a retinopathy grade"
+240,"['United Kingdom,England']",0-150,['NOT AVAILABLE'],6 - 12 MONTHS,All pathways about child health
+241,['United Kingdom'],18-105,['NOT AVAILABLE'],UNKNOWN,Linked datasets cover secondary care.
+242,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-19,['NOT AVAILABLE'],OTHER,COVID-19
+243,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",18-74,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+244,['https://www.geonames.org/2634895/wales.html'],0-5,"['PM TISSUE', 'PRIMARY CELLS']",UNKNOWN,Secondary care
+245,['United Kingdom'],18-75,['NOT AVAILABLE'],> 10 YEARS,Single tier of care - Secondary care outpatients
+246,['https://www.geonames.org/1210997/bangladesh.html'],0-150,['NOT AVAILABLE'],OTHER,Single tier of care - Secondary care outpatients
+247,"['United Kingdom,England,East Midlands']",0-150,['NOT AVAILABLE'],> 10 YEARS,"This dataset contains all Outpatient appointments for NWL patients. Each patient will be identified using an unique patient key, this can be used to link to other Discover-NOW datasets that will help track the patient pathway"
+248,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,18-108,"['PLASMA', 'SERUM', 'TISSUE', 'URINE']",OTHER,"The West Midlands (WM) has a population of 5.9million & includes a diverse ethnic, socio-economic mix. There is a higher than average percentage of minority ethnic groups with Birmingham having a population which is >40% non-white. WM has a large number of elderly residents but Birmingham is one of the youngest cities in the UK.  There is social deprivation and Birmingham’s population suffers with particularly high rates of illness; including cerebrovascular Disease, physical inactivity, obesity, smoking, hypertension, ischaemic heart disease & diabetes.  There are also high levels of rare diseases, especially immunometabolic conditions.   The patients included in this dataset are representative of this diverse population and also include a wide age-range.  University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest NHS Trusts in England, providing direct acute services & specialist care across four hospital sites, with 2.2 million patient episodes per year, 2750 beds & 100 ITU beds. UHB runs a fully electronic healthcare record (EHR) (PICS; Birmingham Systems), a shared primary & secondary care record (Your Care Connected) & a patient portal “My Health”.   University Hospitals Birmingham NHS Foundation Trust is a Comprehensive Care Haemophilia Centre (CCC) and cares for a wide range of inherited bleeding disorders, including Haemophilia A and B, von Willebrand Disorder and other clotting factor and platelet disorders.  UHB also has a mandated VTE risk and prescription prompt in the medical clerking, capturing risk factors and contraindications for anticoagulation.
+This dataset includes the patient journey from admission to hospital to outcome for patients with known clotting or bleeding disorders or who develop them as a result of illness, trauma or medical therapies/interventions.  The data includes granular demography and co-morbidity, presenting symptoms and diagnoses, serial physiology and blood biomarkers, all investigations, all prescribed and administered treatments and outcomes.   It can be supplemented with preceding and following health care contacts, to understand the risk for the acute admission and the subsequent impact on health after discharge. Although primarily secondary care, this dataset can be supplemented with ambulance and primary care data on request.  PIONEER can also offer synthetic data, images and access to a secure Trusted Research Environment for analytics and AI.   PIONEER can assist with analytics, model build, validation & refinement; A.I.; Data partner support for ETL (extract, transform & load) process, Clinical expertise, Patient & end-user access, Purchaser access, Regulatory requirements, Data-driven trials, “fast screen” services"
+249,['https://www.geonames.org/2638360/scotland.html'],0-150,['IN PROGRESS'],> 10 YEARS,Secondary care records for Tayside and Fife
+250,West Midlands,20-64,"['DNA', 'PLASMA', 'SERUM']",> 10 YEARS,This dataset covers patients across all pathway and information related to their CMC record including resuscitation details
+251,https://www.geonames.org/2638360,15-44,"['DNA', 'PLASMA', 'SERUM']",OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+252,['https://www.geonames.org/2634895/wales.html'],0-115,['NOT AVAILABLE'],> 10 YEARS,Study
+253,England,0-115,['NOT AVAILABLE'],1 - 10 YEARS,Cancer registration data are collected from a range of health care provider systems and other services.
+254,"['United Kingdom,England']",18-100,['NOT AVAILABLE'],UNKNOWN,Secondary care
+255,"['United Kingdom,England']",40-150,['NOT AVAILABLE'],OTHER,Secondary care
+256,['https://www.geonames.org/2635167/united-kingdom.html'],18-64,['NOT AVAILABLE'],OTHER,Primary care
+257,England,Not Known,['NOT AVAILABLE'],OTHER,This dataset is not representative of the patient pathway
+258,https://www.geonames.org/1210997/bangladesh.html,18-85,['NOT AVAILABLE'],6 - 12 MONTHS,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+259,England,18-85,['NOT AVAILABLE'],UNKNOWN,Covid-19 specific deaths
+260,['https://www.geonames.org/2635167/united-kingdom.html'],16-150,['NOT AVAILABLE'],OTHER,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+261,https://www.geonames.org/2635167/united-kingdom.html,0-150,['NOT AVAILABLE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+262,Great Britain,0-115,['NOT AVAILABLE'],UNKNOWN,Cancer registration data are collected from a range of health care provider systems and other services.
+263,Wales,0-115,['NOT AVAILABLE'],OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+264,['https://www.geonames.org/6269131/england.html'],0-150,['TISSUE'],OTHER,Cancer registration data are collected from a range of health care provider systems and other services.
+265,['https://www.geonames.org/6269131/england.html'],18-150,['NOT AVAILABLE'],1 - 10 YEARS,Death data is sourced from either the Scottish General Registry Office or the Community Health Index data feeds.
+266,"['United Kingdom,Wales']",0-5,['NOT AVAILABLE'],> 10 YEARS,Information on asthma (adult and paediatric) and COPD patient care is extracted from GP practice record systems in Wales. All patients over the age of 35 with a diagnosis of COPD and all adults and children with a diagnosis of asthma in Wales are included.
+267,https://Pakistan,18-150,['NOT AVAILABLE'],> 10 YEARS,Not representative of care pathway. Recruited consecutively from secondary care.
+268,https://www.geonames.org/countries/GB/united-kingdom.html,0-115,['NOT AVAILABLE'],OTHER,Administrative data. can be linked to health data across all pathways.
+269,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",18-150,['NOT AVAILABLE'],1 - 10 YEARS,Primary Care
+270,['https://www.geonames.org/6269131/england.html'],0-150,['OTHER'],OTHER,Secondary care data only
+271,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",18-105,"['DNA', 'PLASMA', 'SERUM']",OTHER,"The West Midlands (WM) has a population of 5.9million & includes a diverse ethnic, socio-economic mix. There is a higher than average percentage of minority ethnic groups with Birmingham having a population which is >40% non-white. WM has a large number of elderly residents.  There is social deprivation and Birmingham’s population suffers with particularly high rates of COPD; as well as high rates of physical inactivity, obesity, smoking, hypertension, ischaemic heart disease & diabetes.  There are also high levels of rare diseases, especially immunometabolic conditions.   The patients included in this dataset are representative of this diverse population and also include a wide age-range.  University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest NHS Trusts in England, providing direct acute services & specialist care across four hospital sites, with 2.2 million patient episodes per year, 2750 beds & 100 ITU beds. UHB runs a fully electronic healthcare record (EHR) (PICS; Birmingham Systems), a shared primary & secondary care record (Your Care Connected) & a patient portal “My Health”.   This dataset includes the patient journey from admission to hospital to outcome for patients with known COPD or where a diagnosis of COPD was made or suspected on admission. The data includes granular demography and co-morbidity, presenting symptoms and diagnoses, serial physiology and blood biomarkers, all investigations, all prescribed and administered treatments and outcomes.   It can be supplemented with preceding and following health care contacts, to understand the risk for the acute admission and the subsequent impact on health after discharge. Although primarily secondary care, this dataset can be supplemented with ambulance and primary care data on request.  PIONEER can also offer synthetic data, images and access to a secure Trusted Research Environment for analytics and AI.   PIONEER can assist with analytics, model build, validation & refinement; A.I.; Data partner support for ETL (extract, transform & load) process, Clinical expertise, Patient & end-user access, Purchaser access, Regulatory requirements, Data-driven trials, “fast screen” services."
+272,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-150,['NOT AVAILABLE'],> 10 YEARS,"The Birmingham, Solihull and Black Country dataset is representative of the patient pathway for community screening and grading of diabetic eye disease. It covers standard UK Public Health England Diabetic Eye Screening requirements and will include patients receiving screening through the standard model, routine diabetic screening, surveillance and slit lamp examination."
+273,['https://www.geonames.org/2634343/west-midlands.html'],40-150,['NOT AVAILABLE'],1 - 10 YEARS,NOT APPLICABLE
+274,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,0-115,['NOT AVAILABLE'],1 - 10 YEARS,All of secondary care in relation to hospital stays
+275,England,18-150,['NOT AVAILABLE'],UNKNOWN,Primary & community dispensed prescriptions
+276,['https://www.geonames.org/6269131/england.html'],0-115,['OTHER'],> 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+277,Worldwide,0-20,['NOT AVAILABLE'],6 - 12 MONTHS,ALL primary and secondary care LIMS records for Tayside & Fife
+278,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+279,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+280,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",0-103,['NOT AVAILABLE'],OTHER,"Secondary care pathway, with an intention to link primary care datasets"
+281,['https://www.geonames.org/2636157/tayside-region.html'],18-85,['NOT AVAILABLE'],UNKNOWN,Not Available
+282,['https://www.geonames.org/2648147/great-britain.html'],0-150,['TISSUE'],> 10 YEARS,Secondary care
+283,['https://www.geonames.org/2635167/united-kingdom.html'],0-150,['NOT AVAILABLE'],OTHER,"General Practice, Primary Care"
+284,"['https://www.geonames.org/3042225/isle-of-man.html,', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,Covid-19
+285,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,0-150,['NOT AVAILABLE'],0 - 6 MONTHS,Secondary care data only
+286,Wales,0-150,['DNA'],0 - 6 MONTHS,Primary Care
+287,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],OTHER,Primary care
+288,['https://www.geonames.org/2648147/great-britain.html'],0-115,['NOT AVAILABLE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white).  Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care.  Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+289,https://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],1 - 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+290,"['United Kingdom,England']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,Coverage of healthcare workers primarily in acute trusts.
+291,['https://www.geonames.org/countries/GB/united-kingdom.html'],18-110,['NOT AVAILABLE'],1 - 10 YEARS,Cancer registration data are collected from a range of health care provider systems and other services.
+292,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,40-150,['NOT AVAILABLE'],OTHER,All pathways about prescribed systemic anti-cancer therapy.
+293,['https://www.geonames.org/2634343/west-midlands.html'],0-150,['NOT AVAILABLE'],UNKNOWN,"The UHB AMD dataset is representative of the patient pathway for diagnosis and treatment of wet AMD, and longitudinal follow-up."
+294,England,0-150,['NOT AVAILABLE'],6 - 12 MONTHS,"Cancer Clinical Pathway: including cancer waiting times data (CWT), cancer outcomes and services dataset (COSD) and the Systemic Anticancer Treatment dataset (SACT) submissions and Radio Therapy (RT) Care by provider."
+295,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",0-115,['NOT AVAILABLE'],UNKNOWN,All pathways about social care
+296,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,The dataset contains primary care data and can be linked to secondary/inpatient care data.
+297,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],OTHER,"The population includes only covers adults (over 18) who live within certain areas: Midlands, UK. Data is survey data, clinic assessments, and linkable to primary and secondary care."
+298,"England, UK",0-150,['NOT AVAILABLE'],6 - 12 MONTHS,Not Available
+299,['https://www.geonames.org/2634895/wales.html'],18-120,['TISSUE'],6 - 12 MONTHS,Adults who attend renal units and centres throughout the UK are invited to complete an anonymous annual paper-based or online survey that contains 39 questions relating to their experience of the care received for their kidney disease at their renal unit or centre.
+300,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],OTHER,Patients undergoing AAA repair procedures in hospitals in the UK that have been entered and submitted onto the National Vascular Registry
+301,https://www.geonames.org/2634895/wales.html,0-150,['NOT AVAILABLE'],OTHER,Not Applicable
+302,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],0 - 6 MONTHS,SECONDARY CARE
+303,https://www.geonames.org/countries/GB/united-kingdom.html,0-150,['NOT AVAILABLE'],OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+304,https://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],1 - 10 YEARS,Primary care
+305,https://www.geonames.org/2634895/wales.html,16-150,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+306,Wales,60-150,['NOT AVAILABLE'],> 10 YEARS,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected
+307,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],OTHER,Neonatal Unit stay
+308,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",>18,['NOT AVAILABLE'],UNKNOWN,Secondary care
+309,['http://www.geonames.org/2649469/fife.html'],40-150,['NOT AVAILABLE'],UNKNOWN,Structure and resource of COPD hospital services
+310,India,0-150,['NOT AVAILABLE'],OTHER,This dataset deals with prescribed medications only
+311,Wales,0-150,['NOT AVAILABLE'],> 10 YEARS,Primary and Secondary care
+312,England,0-150,['NOT AVAILABLE'],1 - 10 YEARS,NOT APPLICABLE
+313,https://www.geonames.org/2638360/scotland.html,0-150,['NOT AVAILABLE'],1 - 10 YEARS,"The dataset is a follow-up of the participants from the CMC Feasibility trial participants. Thirty patients who required pulmonary rehabilitation and eligible based on the study inclusion and exclusion were recruited. The dataset has a continuous pathway from the feasibility trial with additional components required to show the impact of pulmonary rehabilitation. 
+The patients were followed  up for a period of 8 weeks following the initiation of PR.  The peers visited the patients once weekly in their homes and supervised their exercises twice a week at the centre along with PR professionals."
+314,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",18-150,['NOT AVAILABLE'],OTHER,Secondary care
+315,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,Education
+316,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['TISSUE'],1 - 10 YEARS,"Secondary care, ICU"
+317,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",0-150,['OTHER'],UNKNOWN,"This dataset reflects the registration process - initial registration, change of circumstances and deduction from register."
+318,UK,0-25,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+319,https://www.geonames.org/6269131/england.html,0-150,['IN PROGRESS'],UNKNOWN,Not Available
+320,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],OTHER,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+321,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",0-115,"['PERIPHERAL BLOOD CELLS', 'PLASMA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",UNKNOWN,The data in this table relates to primary care events which is any interaction between the patient and their registered general practice. All patients are identified by an unique patient key which can be linked with all other datasets available in the Discover-NOW catalogue to understand the patient pathway
+322,https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html,0-150,['OTHER'],1 - 10 YEARS,Not Available
+323,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+324,https://www.geonames.org/2638360/scotland.html,0-150,['IN PROGRESS'],OTHER,All critical care pathways
+325,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith & Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,12-110,['NOT AVAILABLE'],OTHER,"This dataset contains all Emergency Care attendances for NWL patients. Each patient will be identified using an unique patient key, this can be used to link to other Discover-NOW datasets that will help track the patient pathway"
+326,England,40-150,"['DNA', 'PLASMA', 'RNA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",UNKNOWN,Consented research project
+327,['https://www.geonames.org/11591953/west-midlands.html'],49-101,['NOT AVAILABLE'],UNKNOWN,NOT APPLICABLE
+328,"West Midlands Region, UK",0-150,['NOT AVAILABLE'],OTHER,"Single specialty - either elderly care or neurology (non acute), secondary care and community services"
+329,England,Not Known,['NOT AVAILABLE'],OTHER,This dataset contains all inpatient activity for NWL patients. Each patient will be identified by an unique patient key that can be used to link to other Discover-NOW datasets to track the patient pathway
+330,['https://www.geonames.org/2648147/great-britain.html'],16-99,"['CORE BIOPSY', 'DNA', 'FAECES', 'IMMORTALIZED CELL LINES', 'PERIPHERAL BLOOD CELLS', 'PLASMA', 'RNA', 'SALIVA', 'SERUM', 'SWABS', 'TISSUE', 'URINE', 'WHOLE BLOOD', 'OTHER']",UNKNOWN,Dataset relates to a single type of antigen testing
+331,England,15-150,['NOT AVAILABLE'],1 - 10 YEARS,All emergency services pathways
+332,England,0-103,['NOT AVAILABLE'],OTHER,End of life care
+333,United Kingdom,18-150,['NOT AVAILABLE'],OTHER,Dataset relates to a single type of antigen testing
+334,England,Not Known,['NOT AVAILABLE'],> 10 YEARS,Secondary Care Acute Hospital Accident & Emergency Pathways
+335,['https://www.geonames.org/2648147/great-britain.html'],19-30,['NOT AVAILABLE'],OTHER,End of life care
+336,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,<5,['NOT AVAILABLE'],UNKNOWN,Only intensive care data
+337,England,15-150,['NOT AVAILABLE'],OTHER,Secondary Care
+338,https://www.geonames.org/1337202/cox-s-bazar-zila.html,0-115,['WHOLE BLOOD'],OTHER,Secondary care records for Tayside and Fife
+339,India,0-150,['NOT AVAILABLE'],1 - 10 YEARS,Not Available
+340,Wales,0-150,['IN PROGRESS'],UNKNOWN,SECONDARY CARE
+341,['https://www.geonames.org/6269131/england.html'],18-100,['NOT AVAILABLE'],UNKNOWN,Patients undergoing lower limb angioplasty/stent procedures in hospitals in the UK that have been entered and submitted onto the National Vascular Registry
+342,http://www.geonames.org/6269131/england.html,0-150,['OTHER'],UNKNOWN,All pathways about patients living in Wales
+343,['https://www.geonames.org/2634895/wales.html'],16-150,"['DNA', 'FAECES', 'PLASMA', 'SALIVA', 'SERUM', 'URINE']",1 - 10 YEARS,Primary Care
+344,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],0-150,['NOT AVAILABLE'],OTHER,Family justice cases
+345,Wales,0-150,"['DNA', 'PLASMA', 'SERUM']",> 10 YEARS,Secondary care dataset
+346,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],UNKNOWN,Secondary care
+347,['https://www.geonames.org/2636157/tayside-region.html'],17-100,['NOT AVAILABLE'],OTHER,"The data covers an individual's experience of their whole Parkinson's service - the current service being visited, but also the experience at diagnosis and whilst an inpatient (where relevant) throughout their lifetime living with Parkinson's."
+348,https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html,0-4,['NOT AVAILABLE'],OTHER,Representative of the unplanned/emergency patient patient for hospitalised patients within secondary care.  Diverse ethnicity and socioeconomic status.
+349,['https://www.geonames.org/2636157/tayside-region.html'],18-99,"['BONE MARROW', 'PERIPHERAL BLOOD CELLS', 'SERUM', 'URINE']",1 - 10 YEARS,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+350,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],1 - 10 YEARS,Data relates to a single specialty area -new and review appointments in ED departments
+351,['https://www.geonames.org/2638360/scotland.html'],18-75,"['DNA', 'PLASMA', 'SERUM']",0 - 6 MONTHS,Covid-19
+352,['https://www.geonames.org/2636157/tayside-region.html'],Not Known,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+353,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",7-99,['NOT AVAILABLE'],1 - 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+354,['https://www.geonames.org/6252001/united-states.html'],26-89,['NOT AVAILABLE'],1 - 10 YEARS,Education
+355,England,0-150,['NOT AVAILABLE'],6 - 12 MONTHS,Treatment / diagnostic intervention referral pathway including welsh residents treated (or waiting for treatment) in England
+356,['https://www.geonames.org/1733045/malaysia.html'],0-113,['OTHER'],OTHER,Not applicable
+357,['https://www.geonames.org/2648147/great-britain.html'],18-85,['NOT AVAILABLE'],0 - 6 MONTHS,Not Applicable
+358,United Kingdom,0-25,"['PLASMA', 'SERUM', 'TISSUE', 'URINE']",OTHER,"This dataset focuses on those patients who required high dependency and Intensive Care support including ventilatory support for any reason or purpose. It includes all ventilator settings, oxygen support and all organ support treatments.  It includes all medications used across the COVID waves. It assesses infections associated with ITU, all routine and specialist tests, all investigations, treatments and results.  The dataset is ethnically diverse and includes all admitted patients.  It is a secondary care, hospitalised cohort."
+359,"['United Kingdom,England,West Midlands']",0-100,['NOT AVAILABLE'],UNKNOWN,Secondary Care pathway. This dataset covers attendances at accident and emergency departments in England. It includes information on the treatment and outcome of the attendance and can be linked to the HES APC dataset to further the pathway if a hospital admission is a result of the A&E attendance.
+360,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],40-69,['NOT AVAILABLE'],> 10 YEARS,Cancer registration data are collected from a range of health care provider systems and other services.
+361,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",40-150,['NOT AVAILABLE'],> 10 YEARS,NOT APPLICABLE
+362,"West Midlands Region, UK",18-85,['NOT AVAILABLE'],OTHER,Secondary care
+363,United Kingdom,18-85,['NOT AVAILABLE'],> 10 YEARS,Dataset includes information from primary care and specialist diabetes care in secondary care settings.
+364,England,19-105,['TISSUE'],> 10 YEARS,Covid-19
+365,['https://www.geonames.org/2635167/united-kingdom.html'],0-25,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+366,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],16-150,['NOT AVAILABLE'],0 - 6 MONTHS,Not applicable
+367,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,All diagnostic and therapy pathways
+368,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-120,['NOT AVAILABLE'],UNKNOWN,"The independent datasets don't show the full patient pathway. We can include other datasets (Clock Starts, Clock Stops and Diagnostics) in views to show the full patient pathway). This dataset contains all Incomplete Pathways using a patient pathway identifier to link to patient activity related to NWL patient population."
+369,['https://www.geonames.org/2634895/wales.html'],12-109,"['BONE MARROW', 'DNA', 'PERIPHERAL BLOOD CELLS', 'RNA']",OTHER,"This dataset is representative of the patient pathway for community screening of diabetic eye disease and grading.  This DES dataset is linked within this diabetic emergency hospital dataset to include those patients who were subsequently admitted to the Queen Elizabeth Hospital, University Hospitals Birmingham NHS Trust for complications of their diabetes.  This limits the dataset to only those patients who have been seen both in primary care screening and then subsequently in the hospital for diabetes."
+370,['http://www.geonames.org/6269131/england.html'],40-150,['NOT AVAILABLE'],0 - 6 MONTHS,Data represents discrete episodes of inpatient stays
+371,['https://www.geonames.org/2648147/great-britain.html'],0-99,['NOT AVAILABLE'],OTHER,Secondary care
+372,"England, Wales",16-100,['NOT AVAILABLE'],OTHER,Secondary care
+373,England,31-59,"['DNA', 'PLASMA', 'SERUM']",OTHER,Not Applicable
+374,['United Kingdom'],0-150,['NOT AVAILABLE'],UNKNOWN,Potential covid-19 cases
+375,['https://www.geonames.org/2634895/wales.html'],0-115,['NOT AVAILABLE'],1 - 10 YEARS,Primary care
+376,['https://www.geonames.org/2648147/great-britain.html'],40-150,['NOT AVAILABLE'],1 - 10 YEARS,Secondary Care
+377,['https://www.geonames.org/2634895/wales.html'],15-150,['NOT AVAILABLE'],UNKNOWN,"Covers pregnancy pathway, also linkages to previous pregnancies and previous medical history."
+378,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],UNKNOWN,Secondary Care echocardiogram data from Tayside.
+379,England,0-115,['NOT AVAILABLE'],UNKNOWN,All pathways pertaining to congenital anomalies
+380,Great Britain,0-150,['NOT AVAILABLE'],UNKNOWN,No
+381,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],Not Known,['NOT AVAILABLE'],OTHER,All secondary care elective pathways
+382,"['United Kingdom,England']",0-150,"['DNA', 'TISSUE']",OTHER,Family justice cases
+383,https://www.geonames.org/2634343/west-midlands.html,0-20,['AVAILABILITY TO BE CONFIRMED'],1 - 10 YEARS,This dataset shows patient records across all community services commissioned in NWL. Patients in this dataset will have an unique patient key that can be used to link to other Discover-NOW datasets to determine the patient pathway
+384,England,18-85,['NOT AVAILABLE'],OTHER,All pathways about patients living in Wales
+385,"['United Kingdom,Scotland']",18-85,['NOT AVAILABLE'],OTHER,Treatment / diagnostic intervention referral pathway including welsh residents treated (or waiting for treatment) in England
+386,['https://www.geonames.org/2634895/wales.html'],16-150,['NOT AVAILABLE'],OTHER,NOT APPLICABLE
+387,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),0-19,['NOT AVAILABLE'],OTHER,Patients undergoing carotid intervention procedures in hospitals in the UK that have been entered and submitted onto the National Vascular Registry
+388,Worldwide,16-150,['NOT AVAILABLE'],> 10 YEARS,All pathways with prescription from primary care
+389,https://www.geonames.org/6269131/england.html,16-120,['IN PROGRESS'],1 - 10 YEARS,Education
+390,['https://www.geonames.org/2634895/wales.html'],7-16,['NOT AVAILABLE'],OTHER,All pathways pertaining to cancer
+391,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-100,['NOT AVAILABLE'],OTHER,Secondary care
+392,['https://www.geonames.org/2641364/northern-ireland.html'],14-32,"['PLASMA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",> 10 YEARS,Secondary
+393,https://www.geonames.org/countries/GB/united-kingdom.html,0-150,['NOT AVAILABLE'],UNKNOWN,Key processes and outcomes of care for roughly 1/7th of all babies born in the UK (all babies requiring neonatal care) and the mothers that give birth to them.
+394,https://www.geonames.org/countries/GB/united-kingdom.html,0-115,['NOT AVAILABLE\xa0'],OTHER,COPD patients assessed for PR between March 2019 and February 2023.
+395,['https://www.geonames.org/6269131/england.html'],0-110,"['CORE BIOPSY', 'PERIPHERAL BLOOD CELLS', 'PLASMA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",OTHER,Secondary care
+396,['https://www.geonames.org/2638360/scotland.html'],0-4,"['DNA', 'PLASMA', 'SERUM', 'WHOLE BLOOD']",> 10 YEARS,Characteristics of hospitals in the UK that provided vascular surgical services in August 2018
+397,"['United Kingdom,England']",0-150,['NOT AVAILABLE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+398,"West Midlands Region, UK",17-100,['NOT AVAILABLE'],UNKNOWN,Administrative. Linkable to health datasets across patient pathway.
+399,"['United Kingdom,Wales']",18-80,['NOT AVAILABLE'],UNKNOWN,Patients undergoing lower limb amputation procedures in hospitals in the UK that have been entered and submitted onto the National Vascular Registry
+400,"England, UK",20-64,['IN PROGRESS'],6 - 12 MONTHS,Single tier of care - Secondary care outpatients
+401,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,Primary care prescription data limited to Tayside and Fife regions in Scotland only.
+402,"['United Kingdom,England,East Midlands']",0-150,['NOT AVAILABLE'],> 10 YEARS,Data is from healthy volunteers with ancestry from the Northern isles of Scotland.
+403,Wales,0-150,['NOT AVAILABLE'],UNKNOWN,"The dataset includes all patients with a positive laboratory test for SARS-COV-2 that are reported to the UK Renal Registry by renal centres in England, Northern Ireland and Wales."
+404,['https://www.geonames.org/2634895/wales.html'],10-110,"['PERIPHERAL BLOOD CELLS', 'PLASMA', 'PRIMARY CELLS', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",OTHER,Secondary Care
+405,['https://www.geonames.org/2634895/wales.html'],Not Known,['NOT AVAILABLE'],UNKNOWN,Not Available
+406,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",0-150,['NOT AVAILABLE'],UNKNOWN,Testing results so may including multiple per person
+407,"West Midlands Region, UK",18-150,['PM TISSUE'],> 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+408,England,15-150,['NOT AVAILABLE'],UNKNOWN,"The TPCKD data were collected from more than 3,000 patients with CKD, including those on KRT, who were being treated at 10 renal centres in England between 2016 and 2018. The TP2 programme collected data from more than 200 patients with CKD, not on KRT, being treated at 4 renal centres in England in 2018."
+409,['https://www.geonames.org/2636157/tayside-region.html'],18-65,['NOT AVAILABLE'],OTHER,Secondary Care
+410,['https://www.geonames.org/1168579/islamic-republic-of-pakistan.html'],0-150,['NOT AVAILABLE'],UNKNOWN,"The populations includes are broadly representative general populations, with differing age ranges (detailed in 10.1038/s41588-018-0321-7) and were not ascertained on disease status. Data from 22 studies with quantitative lung function measures, 79,055 samples with FEV1 and FVC, 24,218 samples with peak expiratory flow."
+411,Northern Ireland,0-24,['NOT AVAILABLE'],1 - 10 YEARS,Multiple health care settings where cancer is diagnosed
+412,['https://www.geonames.org/1168579/islamic-republic-of-pakistan.html'],15-150,['NOT AVAILABLE'],> 10 YEARS,"Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data. Data includes those with and without COVID admitted during the first wave of the COVID pandemic."
+413,"['United Kingdom,Scotland']",18-80,['NOT AVAILABLE'],UNKNOWN,Cancer registration data are collected from a range of health care provider systems and other services.
+414,https://www.geonames.org/countries/GB/united-kingdom.html,0-150,['NOT AVAILABLE'],UNKNOWN,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+415,England,18-115,['NOT AVAILABLE'],OTHER,N/A
+416,England,0-150,['NOT AVAILABLE'],0 - 6 MONTHS,Secondary care
+417,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,Not Known,['NOT AVAILABLE'],UNKNOWN,General Practice only
+418,"['United Kingdom,England,West Midlands']",15-150,['NOT AVAILABLE'],OTHER,"Adult patients aged 18 and over who undergo an expedited, urgent or emergency (NCEPOD definitions) abdominal procedure on the gastrointestinal tract; this includes open, laparoscopic, or laparoscopically-assisted procedures involving the stomach, small or large bowel, or return for conditions such as perforation, ischaemia, abdomical abcess, bleeding, or obstruction.
+Each year, over 20,000 patients undergoing emergency laparotomy are included in the NELA database; since inception, there have been over 165,000 patients registered"
+419,UK,0-115,['NOT AVAILABLE'],OTHER,This table contains list of postcodes showing the pollution reading. Patient pathway can be worked out by linking this table with the patient index table available as part of Discover-NOW
+420,England,40-150,"['DNA', 'AVAILABILITY TO BE CONFIRMED']",1 - 10 YEARS,Secondary care
+421,United Kingdom,0-115,['SERUM'],OTHER,Secondary care
+422,['https://www.geonames.org/6269131/england.html'],0-115,['NOT AVAILABLE'],> 10 YEARS,Structure and resource of PR services July - September 2019.
+423,United Kingdom and beyond,0-4,['NOT AVAILABLE'],1 - 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+424,England,0-150,['NOT AVAILABLE'],UNKNOWN,Administrative data. can be linked to health data across all pathways.
+425,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],OTHER,Secondary care
+426,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],UNKNOWN,Secondary care data only
+427,England,0-150,['NOT AVAILABLE'],UNKNOWN,Cancer registration data are collected from a range of health care provider systems and other services.
+428,['https://www.geonames.org/countries/GB/united-kingdom.html'],0-150,['NOT AVAILABLE'],0 - 6 MONTHS,Not Applicable
+429,https://www.geonames.org/countries/GB/united-kingdom.html,17-110,['NOT AVAILABLE'],OTHER,Education
+430,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-115,['NOT AVAILABLE'],1 - 10 YEARS,COMMUNITY SERVICES
+431,Wales,0-115,"['DNA', 'PLASMA', 'PRIMARY CELLS', 'WHOLE BLOOD']",OTHER,Volunteers are recruited from participating primary care practices
+432,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-115,['NOT AVAILABLE'],> 10 YEARS,Secondary Care pathway. This dataset covers critical care periods for inpatient admissions to hospitals in England. It includes information on the treatment and outcome of the critical care period and can be linked to the HES APC dataset to get further information on the admission relating to the critical care period.
+433,"['United Kingdom,England,West Midlands']",0-150,['NOT AVAILABLE'],OTHER,N/A
+434,['https://www.geonames.org/6269131/england.html'],18-150,['NOT AVAILABLE'],0 - 6 MONTHS,Data forming the Covid-19 Second Generation Surveillance Systems data set relate to demographic and diagnostic information from Pillar 1 swab testing in PHE labs and NHS hospitals and Pillar 2 Swab testing in the community.
+435,England,0-100,"['BONE MARROW', 'CANCER CELL LINES', 'DNA', 'PLASMA']",OTHER,Primary care
+436,England,18-150,['NOT AVAILABLE'],UNKNOWN,NOT APPLICABLE
+437,https://www.geonames.org/2638360/scotland.html,18-65,['NOT AVAILABLE'],OTHER,Not Available
+438,['https://www.geonames.org/1733045/malaysia.html'],0-19,['NOT AVAILABLE'],OTHER,Blood results
+439,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+440,"['United Kingdom,England,East Midlands']",0-150,['IN PROGRESS'],OTHER,"COVID-19 administered in community clinics, mass vaccination centres"
+441,England,15-110,['NOT AVAILABLE'],OTHER,"This dataset contains all accident & emergency, inpatient and outpatient activity related to NWL patient population. Each patient would be identifiable using an unique patient key that can be used to link to other datasets, this will help track the patient pathway"
+442,['https://www.geonames.org/2634895/wales.html'],12-110,['IMMORTALIZED CELL LINES'],1 - 10 YEARS,Secondary care
+443,['https://www.geonames.org/2634895/wales.html'],0-115,['NOT AVAILABLE'],OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care.  Data focuses on in-patient stay in hospital during the acute episode, but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+444,['https://www.geonames.org/2638360/scotland.html'],0-150,"['DNA', 'WHOLE BLOOD']",OTHER,N/A
+445,"West Midlands Region, UK",0-150,['NOT AVAILABLE'],OTHER,Secondary care
+446,['https://www.geonames.org/11591953/west-midlands.html'],0-150,['NOT AVAILABLE'],UNKNOWN,This dataset is representative of England and includes all patients registered on the ONS registry and so is complete
+447,['https://www.geonames.org/2635167/united-kingdom.html'],0-4,['NOT AVAILABLE'],> 10 YEARS,"This dataset is representative of the patient pathway for community screening of diabetic eye disease and grading.  This DES dataset is linked within this dataset to include those patients who were then subsequently admitted to the Queen Elizabeth Hospital, University Hospitals Birmingham NHS Trust for cardiac conditions.  This limits the dataset to only those patients who have been seen both in screening and then subsequently in the hospital for heart disease.  "
+448,"['https://www.geonames.org/6269131/', 'https://www.geonames.org/2634895/']",10-110,['NOT AVAILABLE'],OTHER,"The NICOR datasets focus primarily on secondary care and therfore do not cover the whole patient pathway. The audit data may be linked with other primary cars datasets e.g, General Practice Extraction Services (GPES) to give a better undestanding of care pathways and how disease and treatments are manged over time."
+449,['https://www.geonames.org/2638360/scotland.html'],0-150,['IN PROGRESS'],OTHER,Secondary care
+450,['https://www.geonames.org/2638360/scotland.html'],0-100,['NOT AVAILABLE'],1 - 10 YEARS,"This dataset is representative of the patient pathway as we have data from all care settings (primary care, acute, mental health, community and social care). We also have data for all disease areas and hence able to track the pathway for all diseases."
+451,England,40-150,['AVAILABILITY TO BE CONFIRMED'],> 10 YEARS,Cancer
+452,['https://www.geonames.org/2634343/west-midlands.html'],0-150,"['DNA', 'PLASMA', 'SERUM']",OTHER,MEDICINES IN COMMUNITY SETTINGS
+453,"['United Kingdom,Scotland']",0-29,['AVAILABILITY TO BE CONFIRMED'],1 - 10 YEARS,Secondary Care pathway. This dataset covers inpatient admissions to hospitals in England. It includes information on the treatment and outcome of the hospital admission and can be linked to the HES A&E dataset to further the pathway if an A&E attendance took place prior to an admissions to hospital.
+454,https://www.geonames.org/countries/GB/united-kingdom.html,0-15,['NOT AVAILABLE'],OTHER,"The West Midlands (WM) has a population of 5.9million & includes a diverse ethnic, socio-economic mix. There is a higher than average percentage of minority ethnic groups with Birmingham having a population which is >40% non-white. WM has a large number of elderly residents but Birmingham is one of the youngest cities in the UK.  There is social deprivation and Birmingham’s population suffers with particularly high rates of illness; including cerebrovascular Disease, physical inactivity, obesity, smoking, hypertension, ischaemic heart disease & diabetes.  There are also high levels of rare diseases, especially immunometabolic conditions.   The patients included in this dataset are representative of this diverse population and also include a wide age-range.  University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest NHS Trusts in England, providing direct acute services & specialist care across four hospital sites, with 2.2 million patient episodes per year, 2750 beds & 100 ITU beds. UHB runs a fully electronic healthcare record (EHR) (PICS; Birmingham Systems), a shared primary & secondary care record (Your Care Connected) & a patient portal “My Health”.   The UHB ITU is divided into areas of speciality, including general ITU, but also liver, cardiothoracic and neurological designated units, which focus on patients with these specific organ-support issues. This dataset focuses on those patients who required a higher level of medical support and/or ventilatory support for any reason or purpose.   It includes all ventilator settings, oxygen support and all organ support treatments.  It assesses infections associated with ITU, all routine and specialist tests, all investigations, treatments and results.  It can be supplemented with data preceding and after the acute event, to understand risks of susceptibility and long-term outcomes. Although primarily secondary care, this dataset can be supplemented with ambulance and primary care data on request.  PIONEER can also offer synthetic data, images and access to a secure Trusted Research Environment for analytics and AI.  
+PIONEER can assist with analytics, model build, validation & refinement; A.I.; Data partner support for ETL (extract, transform & load) process, Clinical expertise, Patient & end-user access, Purchaser access, Regulatory requirements, Data-driven trials, “fast screen” services."
+455,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",15-49,['NOT AVAILABLE'],OTHER,Not applicable
+456,['https://www.geonames.org/6269131/england.html'],40-150,['NOT AVAILABLE'],OTHER,Single specialty - speech and language therapy in secondary care and community services
+457,https://www.geonames.org/11591951/yorkshire-and-the-humber.html,Not Known,['NOT AVAILABLE'],1 - 10 YEARS,Secondary care
+458,Wales,0-120,['NOT AVAILABLE'],UNKNOWN,NOT APPLICABLE
+459,"['United Kingdom,England']",0-10,['NOT AVAILABLE'],UNKNOWN,Patients undergoing lower limb bypass/surgical revascularisation procedures in hospitals in the UK that have been entered and submitted onto the National Vascular Registry
+460,https://www.geonames.org/2649808/exeter.html,0-150,"['SALIVA', 'WHOLE BLOOD']",> 10 YEARS,Secondary care
+461,['https://www.geonames.org/1733045/malaysia.html'],40-150,['NOT AVAILABLE'],6 - 12 MONTHS,Cancer registration data are collected from a range of health care provider systems and other services.
+462,England,0-150,['NOT AVAILABLE'],UNKNOWN,This dataset contains information related to all patients prescribed high cost drugs in hospital. Every patient is identified by an unique patient key that can be used to link to other Discover-NOW datasets to derive the patient pathway
+463,['https://www.geonames.org/2634895/wales.html'],18-150,"['DNA', 'PLASMA', 'SERUM']",UNKNOWN,Covers pathway from diagnosis to 3 months after surgery
+464,England,18-150,['NOT AVAILABLE'],6 - 12 MONTHS,"The Maternity Services Data Set (MSDS) is a patient-level data set that captures key information generated as part of care within maternity service providers at each stage of the maternity care pathway including the antenatal pathway, the birth episode pathway, and the postnatal pathway. The antenatal pathway starts when the pregnant woman has her first antenatal appointment with her maternity provider, at around 10 weeks’ gestation. The MSDS continues to capture information until the date on which the mother ceased to be cared for in maternity services. Information on care prior to the first antenatal booking appointment or following discharge from maternity services is not contained in the MSDS."
+465,https://www.geonames.org/2638360/scotland.html,60-150,['NOT AVAILABLE'],OTHER,Secondary care
+466,England,11-17,['NOT AVAILABLE'],OTHER,Data is representative of the patient pathway. Readmissions for reasons other than revision surgery are not collected.
+467,['https://www.geonames.org/1176615/islamabad.html'],15-105,['NOT AVAILABLE'],OTHER,Not Available
+468,England,15-150,['NOT AVAILABLE'],> 10 YEARS,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white). Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care. Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+469,Wales,18-110,['NOT AVAILABLE'],OTHER,No
+470,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",18-150,['NOT AVAILABLE'],OTHER,"Data is representative of the multi-ethnicity population within the West Midlands (42% non white).  Data includes all patients admitted during this timeframe, with National data Opt Outs applied, and therefore is representative of admissions to secondary care.  Data focuses on in-patient stay in hospital during the acute episode but can be supplemented on request to include previous and subsequent hospital contacts (including outpatient appointments) and ambulance, 111, 999 data."
+471,['https://www.geonames.org/2643743/london.html'],40-79,['NOT AVAILABLE'],OTHER,This dataset relates to single event (death)
+472,['https://www.geonames.org/2634343/west-midlands.html'],18-80,"['PERIPHERAL BLOOD CELLS', 'PLASMA', 'SALIVA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",UNKNOWN,
+473,England,0-115,['NOT AVAILABLE'],OTHER,
+474,"['United Kingdom,England,West Midlands']",28-52,['NOT AVAILABLE'],1 - 10 YEARS,
+475,https://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+476,"[""United Kingdom,England,Eastern,King's Lynn and West Norfolk"", 'United Kingdom,England,Eastern,North Norfolk', 'United Kingdom,England,Eastern,South Norfolk', 'United Kingdom,England,Eastern,Breckland', 'United Kingdom,England,Eastern,Great Yarmouth', 'United Kingdom,England,Eastern,Broadland', 'United Kingdom,England,Eastern,Norwich']",50-110,['AVAILABILITY TO BE CONFIRMED'],UNKNOWN,
+477,"['United Kingdom,England,East Midlands']",0-150,['NOT AVAILABLE'],> 10 YEARS,
+478,England,17-100,['NOT AVAILABLE'],OTHER,
+479,https://www.geonames.org/1210997/bangladesh.html,0-150,"['DNA', 'PLASMA', 'SERUM']",1 - 10 YEARS,
+480,['https://www.geonames.org/11591953/west-midlands.html'],18-70,['NOT AVAILABLE'],1 - 10 YEARS,
+481,West Yorkshire and Harrogate ICS,0-15,"['PERIPHERAL BLOOD CELLS', 'PLASMA', 'RNA', 'SERUM', 'WHOLE BLOOD']",OTHER,
+482,['https://www.geonames.org/2634895/wales.html'],18-150,"['FAECES', 'PLASMA', 'SALIVA', 'SERUM', 'URINE', 'WHOLE BLOOD']",1 - 10 YEARS,
+483,https://www.geonames.org/2648147/great-britain.html,18-85,['NOT AVAILABLE'],UNKNOWN,
+484,"Midlands, UK",18-100,['NOT AVAILABLE'],UNKNOWN,
+485,['https://www.geonames.org/2634895/wales.html'],0-100,['NOT AVAILABLE'],1 - 10 YEARS,
+486,https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html,0-150,['IN PROGRESS'],UNKNOWN,
+487,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),18-150,['NOT AVAILABLE'],1 - 10 YEARS,
+488,['https://www.geonames.org/6269131/england.html\nhttps://www.geonames.org/2634895/wales.html\nhttps://www.geonames.org/2638360/scotland.html'],19-105,['NOT AVAILABLE'],OTHER,
+489,https://www.geonames.org/countries/GB/united-kingdom.html,11-49,"['DNA', 'PLASMA', 'SERUM']",UNKNOWN,
+490,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+491,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+492,['https://www.geonames.org/2634343/west-midlands.html'],0-1,['NOT AVAILABLE'],UNKNOWN,
+493,['https://www.geonames.org/2635167/united-kingdom.html'],40-150,['NOT AVAILABLE'],> 10 YEARS,
+494,['https://www.geonames.org/2634895/wales.html'],0-19,['NOT AVAILABLE'],1 - 10 YEARS,
+495,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-150,['NOT AVAILABLE'],0 - 6 MONTHS,
+496,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/3042225/isle-of-man.html']",0-100,['NOT AVAILABLE'],> 10 YEARS,
+497,England,0-0,['NOT AVAILABLE'],1 - 10 YEARS,
+498,Wales,30-99,['AVAILABILITY TO BE CONFIRMED'],OTHER,
+499,"['https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",65-85,['NOT AVAILABLE'],UNKNOWN,
+500,https://www.geonames.org/2641364/northern-ireland.html,18-85,['NOT AVAILABLE'],1 - 10 YEARS,
+501,https://www.geonames.org/2644688/leeds.html,9-11,['NOT AVAILABLE'],OTHER,
+502,['https://www.geonames.org/countries/GB/united-kingdom.html'],15-150,['NOT AVAILABLE'],0 - 6 MONTHS,
+503,['https://www.geonames.org/1269750/republic-of-india.html'],0-150,['NOT AVAILABLE'],6 - 12 MONTHS,
+504,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+505,https://www.geonames.org/2635167/united-kingdom.html,0-4,['NOT AVAILABLE'],> 10 YEARS,
+506,Wales,Not Known,['TISSUE'],OTHER,
+507,England,0-4,['NOT AVAILABLE'],> 10 YEARS,
+508,['ttps://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],0-4,['IMMORTALIZED CELL LINES'],0 - 6 MONTHS,
+509,['https://www.geonames.org/1733045/malaysia.html'],0-51,['NOT AVAILABLE'],OTHER,
+510,https://www.geonames.org/2641364/northern-ireland.html,18-85,['NOT AVAILABLE'],1 - 10 YEARS,
+511,['https://www.geonames.org/2638360/scotland.html'],0-120,"['DNA', 'PLASMA', 'SERUM', 'TISSUE', 'URINE']",CONTINUOUS,
+512,England,5-9,"['PLASMA', 'SALIVA', 'SERUM', 'WHOLE BLOOD']",OTHER,
+513,['https://www.geonames.org/2638360/scotland.html'],18-91,"['DNA', 'PLASMA', 'PM TISSUE', 'SERUM', 'URINE']",OTHER,
+514,['https://www.geonames.org/2638360/scotland.html'],15-115,['NOT AVAILABLE'],UNKNOWN,
+515,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],0 - 6 MONTHS,
+516,['England (https://www.geonames.org/6269131/england.html)'],0-120,['NOT AVAILABLE'],1 - 10 YEARS,
+517,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+518,['https://www.geonames.org/2638360/scotland.html'],0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+519,Salford and South Manchester,18-150,['NOT AVAILABLE'],1 - 10 YEARS,
+520,"West Midlands Region, UK",0-150,['NOT AVAILABLE'],UNKNOWN,
+521,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+522,Wales,0-150,['NOT AVAILABLE'],UNKNOWN,
+523,"['https://www.geonames.org/6269131/', 'https://www.geonames.org/2634895/']",0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+524,['https://www.geonames.org/2634895/wales.html'],20-99,['NOT AVAILABLE'],OTHER,
+525,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,18-85,['NOT AVAILABLE'],> 10 YEARS,
+526,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",6-150,['NOT AVAILABLE'],OTHER,
+527,['https://www.geonames.org/1733045/malaysia.html'],0-150,['NOT AVAILABLE'],OTHER,
+528,['https://www.geonames.org/6269131/england.html'],10-150,['NOT AVAILABLE'],OTHER,
+529,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],UNKNOWN,
+530,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+531,England,15-150,['NOT AVAILABLE'],OTHER,
+532,https://www.geonames.org/countries/GB/united-kingdom.html,15-150,['NOT AVAILABLE'],UNKNOWN,
+533,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),0-150,['NOT AVAILABLE'],> 10 YEARS,
+534,Wales,0-150,['SERUM'],6 - 12 MONTHS,
+535,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,18-150,['NOT AVAILABLE'],OTHER,
+536,England,0-150,['NOT AVAILABLE'],OTHER,
+537,https://www.geonames.org/2641364/northern-ireland.html,0-150,['IN PROGRESS'],OTHER,
+538,UK,0-120,['NOT AVAILABLE'],UNKNOWN,
+539,England,18-150,['NOT AVAILABLE'],1 - 10 YEARS,
+540,Wales,0-150,['NOT AVAILABLE'],1 - 10 YEARS,
+541,England,0-150,['NOT AVAILABLE'],> 10 YEARS,
+542,['https://www.geonames.org/2634895/wales.html'],0-115,['NOT AVAILABLE'],OTHER,
+543,"['', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",70-86,['NOT AVAILABLE'],OTHER,
+544,https://www.geonames.org/1210997/bangladesh.html,0-150,['NOT AVAILABLE'],0 - 6 MONTHS,
+545,https://www.geonames.org/2641364/northern-ireland.html,0-150,"['DNA', 'PLASMA', 'SERUM']",> 10 YEARS,
+546,['https://www.geonames.org/11591955/london.html'],0-150,['NOT AVAILABLE'],> 10 YEARS,
+547,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-120,['NOT AVAILABLE'],> 10 YEARS,
+548,https://www.geonames.org/2638360/scotland.html,0-150,['NOT AVAILABLE'],UNKNOWN,
+549,['https://www.geonames.org/6269131/england.html'],18-150,['NOT AVAILABLE'],OTHER,
+550,['https://www.geonames.org/6269131/england.html'],18-100,['AVAILABILITY TO BE CONFIRMED'],> 10 YEARS,
+551,['http://www.geonames.org/2638360/scotland.html'],0-150,"['DNA', 'SERUM', 'TISSUE', 'URINE', 'WHOLE BLOOD']",OTHER,
+552,UK,>18,['NOT AVAILABLE'],UNKNOWN,
+553,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],OTHER,
+554,"['United Kingdom,Scotland']",0-150,['NOT AVAILABLE'],OTHER,
+555,United Kingdom,0-18,['NOT AVAILABLE'],0 - 6 MONTHS,
+556,UK,0-100,['IN PROGRESS'],6 - 12 MONTHS,
+557,Wales,0-150,['NOT AVAILABLE'],OTHER,
+558,['https://www.geonames.org/6269131/england.html\nhttps://www.geonames.org/2634895/wales.html\nhttps://www.geonames.org/2638360/scotland.html'],0-115,['NOT AVAILABLE'],0 - 6 MONTHS,
+559,['https://www.geonames.org/2643576/lothian.html'],0-150,['NOT AVAILABLE'],UNKNOWN,
+560,India,Not Known,['NOT AVAILABLE'],OTHER,
+561,['https://www.geonames.org/2634895/wales.html'],20-99,['IN PROGRESS'],UNKNOWN,
+562,['https://www.geonames.org/2634895/wales.html'],0-115,['NOT AVAILABLE'],1 - 10 YEARS,
+563,England,0-5,['NOT AVAILABLE'],> 10 YEARS,
+564,https://www.geonames.org/2634343/west-midlands.html,0-150,['SWABS'],0 - 6 MONTHS,
+565,England,0-150,['AVAILABILITY TO BE CONFIRMED'],OTHER,
+566,['https://www.geonames.org/6269131/england.html'],18-71,['IN PROGRESS'],1 - 10 YEARS,
+567,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,15-150,['NOT AVAILABLE'],UNKNOWN,
+568,England,0-115,['NOT AVAILABLE'],OTHER,
+569,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],18-85,['NOT AVAILABLE'],OTHER,
+570,https://www.geonames.org/2634343/west-midlands.html,16-150,['SERUM'],OTHER,
+571,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,0-62,['IN PROGRESS'],1 - 10 YEARS,
+572,"['https://www.geonames.org/3042225/isle-of-man.html,', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-112,['NOT AVAILABLE'],OTHER,
+573,https://www.geonames.org/2641364/northern-ireland.html,0-20,['AVAILABILITY TO BE CONFIRMED'],,
+574,['https://www.geonames.org/6252001/united-states.html'],0-150,['NOT AVAILABLE'],,
+575,['https://www.geonames.org/2634895/wales.html'],18-65,['NOT AVAILABLE'],,
+576,['https://www.geonames.org/6269131/england.html'],40-150,['NOT AVAILABLE'],,
+577,https://www.geonames.org/2635167/united-kingdom.html,0-150,"['PLASMA', 'SERUM', 'URINE', 'WHOLE BLOOD']",,
+578,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],0-115,['NOT AVAILABLE'],,
+579,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],,
+580,['https://www.geonames.org/2634343/west-midlands.html'],20-100,['NOT AVAILABLE'],,
+581,Wales,Not Known,['NOT AVAILABLE'],,
+582,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],,
+583,Oxfordshire,0-150,['NOT AVAILABLE'],,
+584,England,0-115,['NOT AVAILABLE'],,
+585,['https://www.geonames.org/2638360/scotland.html'],16-150,['NOT AVAILABLE'],,
+586,['https://www.geonames.org/2635167/united-kingdom.html'],Not Known,"['DNA', 'PLASMA', 'SERUM']",,
+587,['https://www.geonames.org/2634895/wales.html'],0-150,['NOT AVAILABLE'],,
+588,https://www.geonames.org/2634343/west-midlands.html,16-150,['NOT AVAILABLE'],,
+589,England,0-120,['NOT AVAILABLE'],,
+590,https://www.geonames.org/6269131/england.html,0-150,['IN PROGRESS'],,
+591,UK,Not Known,['NOT AVAILABLE'],,
+592,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],,
+593,http://www.geonames.org/6269131/england.html,0-150,['NOT AVAILABLE'],,
+594,England,0-150,['NOT AVAILABLE'],,
+595,Wales,18-65,['NOT AVAILABLE'],,
+596,England and Wales,0-4,['NOT AVAILABLE'],,
+597,['https://www.geonames.org/2634895/wales.html'],16-45,['NOT AVAILABLE'],,
+598,['United Kingdom'],Not Known,"['PLASMA', 'SERUM', 'TISSUE']",,
+599,England,12-150,['NOT AVAILABLE'],,
+600,https://www.geonames.org/2638360/scotland.html,0-150,['NOT AVAILABLE'],,
+601,['https://www.geonames.org/2634895/wales.html'],0-115,"['DNA', 'PLASMA', 'SERUM']",,
+602,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",0-150,['NOT AVAILABLE'],,
+603,Nottinghamshire,0-150,['NOT AVAILABLE'],,
+604,['https://www.geonames.org/2638360/scotland.html'],15-150,['NOT AVAILABLE'],,
+605,https://www.geonames.org/countries/GB/united-kingdom.html,0-150,['NOT AVAILABLE'],,
+606,Scotland,0-150,"['WHOLE BLOOD', 'URINE']",,
+607,['https://www.geonames.org/11591953/west-midlands.html'],0-150,"['DNA', 'PLASMA', 'SERUM', 'WHOLE BLOOD']",,
+608,https://www.geonames.org/2641364/northern-ireland.html,0-150,['IN PROGRESS'],,
+609,['https://www.geonames.org/6269131/england.html'],0-150,['NOT AVAILABLE'],,
+610,['https://www.geonames.org/2634895/wales.html'],0-150,['OTHER'],,
+611,['https://www.geonames.org/2634895/wales.html'],50-80,['NOT AVAILABLE'],,
+612,England,0-56,['NOT AVAILABLE'],,
+613,https://www.geonames.org/2634895/wales.html,0-150,['NOT AVAILABLE'],,
+614,['https://www.geonames.org/countries/GB/united-kingdom.html'],40-150,"['DNA', 'PLASMA', 'SERUM', 'URINE', 'WHOLE BLOOD']",,
+615,England,0-4,['NOT AVAILABLE'],,
+616,UK,50-150,['NOT AVAILABLE'],,
+617,['https://www.geonames.org/2636157/tayside-region.html'],0-150,['NOT AVAILABLE'],,
+618,UK,Not Known,['NOT AVAILABLE'],,
+619,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2638360/scotland.html']",0-150,"['DNA', 'PLASMA', 'SERUM', 'TISSUE']",,
+620,https://www.geonames.org/2641364/northern-ireland.html,0-18,['NOT AVAILABLE'],,
+621,"['United Kingdom,Scotland']",0-150,['NOT AVAILABLE'],,
+622,England,0-150,['NOT AVAILABLE'],,
+623,['https://www.geonames.org/2634895/wales.html'],>18,"['PLASMA', 'SERUM', 'TISSUE', 'WHOLE BLOOD']",,
+624,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,"['DNA', 'PLASMA', 'SERUM']",,
+625,['https://www.geonames.org/2638360/scotland.html'],16-150,['NOT AVAILABLE'],,
+626,England,40-150,"['CANCER CELL LINES', 'DNA', 'PLASMA', 'SERUM', 'TISSUE']",,
+627,Wales,0-4,"['CDNA/MRNA', 'MICRORNA', 'TISSUE', 'WHOLE BLOOD']",,
+628,"['United Kingdom,Wales']",18-100,['DNA'],,
+629,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,0-150,['NOT AVAILABLE'],,
+630,Wales,18-85,['NOT AVAILABLE'],,
+631,India,0-20,['NOT AVAILABLE'],,
+632,Wales,0-120,"['DNA', 'PLASMA', 'SERUM']",,
+633,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],0-115,['NOT AVAILABLE'],,
+634,Wales,0-4,['NOT AVAILABLE'],,
+635,['https://www.geonames.org/2638360/scotland.html'],0-2,['NOT AVAILABLE'],,
+636,['https://www.geonames.org/6269131/england.html\nhttps://www.geonames.org/2634895/wales.html\nhttps://www.geonames.org/2638360/scotland.html'],18-99,"['DNA', 'PLASMA', 'SERUM', 'URINE', 'WHOLE BLOOD']",,
+637,Wales,18-80,"['DNA', 'PLASMA', 'SERUM']",,
+638,https://www.geonames.org/2635167/united-kingdom.html,0-5,['NOT AVAILABLE'],,
+639,Wales,18-100,['NOT AVAILABLE'],,
+640,['https://www.geonames.org/2634895/wales.html'],Not Known,['NOT AVAILABLE'],,
+641,"['United Kingdom,England']",35-100,['AVAILABILITY TO BE CONFIRMED'],,
+642,['https://www.geonames.org/2634895/wales.html'],18-65,['NOT AVAILABLE'],,
+643,"['https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",0-115,['NOT AVAILABLE'],,
+644,"['https://www.geonames.org/2636157/tayside-region.html', 'https://www.geonames.org/3333236/south-lanarkshire.html', 'https://www.geonames.org/3333233/north-lanarkshire.html', 'https://www.geonames.org/2646944/highland.html']",18-150,['NOT AVAILABLE'],,
+645,England,18-55,['NOT AVAILABLE'],,
+646,https://www.geonames.org/countries/GB/united-kingdom.html,30-70,['TISSUE'],,
+647,England,0-150,['NOT AVAILABLE'],,
+648,England,18-90,['NOT AVAILABLE'],,
+649,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",0-150,"['PLASMA', 'SERUM', 'WHOLE BLOOD']",,
+650,"['United Kingdom,England']",5-9,['NOT AVAILABLE'],,
+651,['https://www.geonames.org/6269131/england.html'],0-19,['NOT AVAILABLE'],,
+652,https://www.geonames.org/1168579/islamic-republic-of-pakistan.html,15-150,['NOT AVAILABLE'],,
+653,['https://www.geonames.org/2656173/bath.html'],18-100,['NOT AVAILABLE'],,
+654,['United Kingdom'],0-150,['IN PROGRESS'],,
+655,['https://www.geonames.org/2638360/scotland.html'],6-8,['AVAILABILITY TO BE CONFIRMED'],,
+656,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/2634895/wales.html']",0-150,['NOT AVAILABLE'],,
+657,['https://www.geonames.org/2634343/west-midlands.html'],15-150,['NOT AVAILABLE'],,
+658,['https://www.geonames.org/2638360/scotland.html'],18-85,['NOT AVAILABLE'],,
+659,Wales,0-150,['NOT AVAILABLE'],,
+660,England,0-150,"['DNA', 'PLASMA', 'SERUM']",,
+661,['https://www.geonames.org/6269131/england.html\nhttps://www.geonames.org/2634895/wales.html\nhttps://www.geonames.org/2638360/scotland.html'],40-150,['NOT AVAILABLE'],,
+662,United Kingdom,40-150,['NOT AVAILABLE'],,
+663,https://www.geonames.org/countries/GB/united-kingdom.html,16-99,['NOT AVAILABLE'],,
+664,['https://www.geonames.org/2634895/wales.html'],5-14,['NOT AVAILABLE'],,
+665,Scotland,0-150,['NOT AVAILABLE'],,
+666,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],0-19,['NOT AVAILABLE'],,
+667,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",18-85,['NOT AVAILABLE'],,
+668,"['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html', '']",18-150,['NOT AVAILABLE'],,
+669,England,0-25,['NOT AVAILABLE'],,
+670,England,18-100,['NOT AVAILABLE'],,
+671,"['https://www.geonames.org/2640923/orkney-islands.html', 'https://www.geonames.org/2638010/shetland-islands.html']",15-150,"['TISSUE', 'WHOLE BLOOD']",,
+672,London and Luton,18-85,"['DNA', 'PLASMA', 'SERUM']",,
+673,"['https://www.geonames.org/6269131', 'https://www.geonames.org/2634895', 'https://www.geonames.org/2641364/']",0-150,['TISSUE'],,
+674,https://www.geonames.org/2643743/london.html,13-150,['NOT AVAILABLE'],,
+675,United Kingdom (https://www.geonames.org/2635167/united-kingdom.html),18-150,['NOT AVAILABLE'],,
+676,['https://www.geonames.org/2634895/wales.html'],18-80,['NOT AVAILABLE'],,
+677,England and Wales,15-150,['NOT AVAILABLE'],,
+678,https://www.geonames.org/2636157/tayside-region.html,0-115,['NOT AVAILABLE'],,
+679,Scotland,0-115,['NOT AVAILABLE'],,
+680,['United Kingdom (https://www.geonames.org/2635167/united-kingdom.html)'],18-110,['WHOLE BLOOD'],,
+681,['https://www.geonames.org/2638360/scotland.html'],Not Known,['NOT AVAILABLE'],,
+682,['https://www.geonames.org/2634343/west-midlands.html'],0-115,['NOT AVAILABLE'],,
+683,https://www.geonames.org/6269131,20-95,['NOT AVAILABLE'],,
+684,"['United Kingdom,England,East Midlands']",15-44,['NOT AVAILABLE'],,
+685,Worldwide,18-100,['NOT AVAILABLE'],,
+686,['https://www.geonames.org/6269131/england.html'],65-85,['NOT AVAILABLE'],,
+687,"['United Kingdom,England']",0-150,['NOT AVAILABLE'],,
+688,"West Midlands Region, UK",18-150,['NOT AVAILABLE'],,
+689,England,15-150,['NOT AVAILABLE'],,
+690,['https://www.geonames.org/6269131/england.html'],18-100,['NOT AVAILABLE'],,
+691,['https://www.geonames.org/2634343/west-midlands.html'],18-72,['NOT AVAILABLE'],,
+692,England,0-150,['NOT AVAILABLE'],,
+693,['https://www.geonames.org/2635167/united-kingdom.html'],>18,['NOT AVAILABLE'],,
+694,['https://www.geonames.org/2634895/wales.html'],0-19,"['PLASMA', 'RNA', 'TISSUE', 'URINE', 'WHOLE BLOOD']",,
+695,['https://www.geonames.org/2638360/scotland.html'],0-115,['NOT AVAILABLE'],,
+696,"['https://www.geonames.org/6269131', 'https://www.geonames.org/2634895']",18-85,['NOT AVAILABLE'],,
+697,England,18-110,['NOT AVAILABLE'],,
+698,https://www.geonames.org/2643743/london.html,0-19,['NOT AVAILABLE'],,
+699,['https://www.geonames.org/2656173/bath.html'],0-115,"['URINE', 'WHOLE BLOOD', 'DNA', 'PLASMA', 'SERUM']",,
+700,"['https://www.geonames.org/2646895/hillingdon.html', 'https://www.geonames.org/2634341/city-of-westminster.html', 'https://www.geonames.org/3333157/royal-kensington-and-chelsea.html', 'https://www.geonames.org/3333151/harrow.html', 'https://www.geonames.org/3333132/brent.html', 'https://www.geonames.org/2650567/ealing.html', 'https://www.geonames.org/3333155/hounslow.html', 'https://www.geonames.org/3333149/hammersmith-and-fulham.html']",0-4,['NOT AVAILABLE'],,
+701,India,50-100,['NOT AVAILABLE'],,
+702,['https://www.geonames.org/2634895/wales.html'],18-150,['NOT AVAILABLE'],,
+703,['https://www.geonames.org/6269131/england.html'],0-115,['TISSUE'],,
+704,https://www.geonames.org/2635167/united-kingdom.html,0-150,['IN PROGRESS'],,
+705,"['https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/6269131/england.html']",9-11,['NOT AVAILABLE'],,
+706,https://www.geonames.org/2634343/west-midlands.html,0-150,['NOT AVAILABLE'],,
+707,Wales,40-150,['NOT AVAILABLE'],,
+708,['https://www.geonames.org/6269131/england.html'],30-62,['NOT AVAILABLE'],,
+709,['https://www.geonames.org/2638360/scotland.html'],40-150,['NOT AVAILABLE'],,
+710,['https://www.geonames.org/6269131/england.html'],0-120,['NOT AVAILABLE'],,
+711,['https://www.geonames.org/1733045/malaysia.html'],18-150,['NOT AVAILABLE'],,
+712,['https://www.geonames.org/6269131/england.html'],10-100,['WHOLE BLOOD'],,
+713,Wales,0-150,['NOT AVAILABLE'],,
+714,"['United Kingdom,Wales']",0-49,['NOT AVAILABLE'],,
+715,https://www.geonames.org/6269131/england.html,16-150,['NOT AVAILABLE'],,
+716,Scotland,0-150,"['DNA', 'PLASMA', 'RNA', 'SALIVA', 'SERUM', 'SWABS', 'TISSUE', 'URINE', 'WHOLE BLOOD']",,
+717,"['United Kingdom,England,Eastern,Fenland', 'United Kingdom,England,Eastern,East Cambridgeshire', 'United Kingdom,England,Eastern,Cambridge', 'United Kingdom,England,Eastern,South Cambridgeshire']",18-150,['NOT AVAILABLE'],,
+718,England,0-150,['NOT AVAILABLE'],,
+719,['England'],20-95,"['DNA', 'WHOLE BLOOD']",,
+720,https://www.geonames.org/2638360/scotland.html,0-4,['NOT AVAILABLE'],,
+721,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2638360/scotland.html', 'https://www.geonames.org/2634895/wales.html', 'http://www.geonames.org/2641364/northern-ireland.html']",0-115,['NOT AVAILABLE'],,
+722,"['United Kingdom,England']",0-150,['NOT AVAILABLE'],,
+723,['https://www.geonames.org/2635167/united-kingdom.html'],0-150,['PERIPHERAL BLOOD CELLS'],,
+724,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],16-110,,,
+725,https://www.geonames.org/2638360/scotland.html,18-91,,,
+726,Wales,0-115,,,
+727,https://www.geonames.org/2634895/wales.html,0-150,,,
+728,"['United Kingdom,England,West Midlands']",12-110,,,
+729,['https://www.geonames.org/2638360/scotland.html'],0-25,,,
+730,"['United Kingdom,England']",20-150,,,
+731,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,0-150,,,
+732,['https://saildatabank.com/about-us/overview/'],0-150,,,
+733,https://www.geonames.org/2634343/west-midlands.html,40-150,,,
+734,['https://www.geonames.org/2640726/oxfordshire.html'],18-120,,,
+735,"['United Kingdom,England']",0-150,,,
+736,"['United Kingdom,England']",0-120,,,
+737,['https://www.geonames.org/11591953/west-midlands.html'],10-110,,,
+738,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",6-56,,,
+739,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",34-95,,,
+740,Wales,60-74,,,
+741,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith & Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,18-150,,,
+742,England,15-150,,,
+743,https://www.geonames.org/2634895/wales.html,Not Known,,,
+744,England,18-100,,,
+745,['England'],0-150,,,
+746,"West Midlands Region, UK",50-70,,,
+747,"['United Kingdom,England,Yorkshire and The Humber,Bradford']",0-150,,,
+748,['https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html'],0-150,,,
+749,['https://www.geonames.org/2634895/wales.html'],0-115,,,
+750,"https://www.geonames.org/6269131/england.html, England",0-150,,,
+751,England,18-150,,,
+752,England,40-150,,,
+753,['https://www.geonames.org/6269131/england.html\nhttps://www.geonames.org/2634895/wales.html\nhttps://www.geonames.org/2638360/scotland.html'],0-150,,,
+754,['https://www.geonames.org/2638360/scotland.html'],0-100,,,
+755,Wales,0-115,,,
+756,"United Kingdom, United States of America",0-150,,,
+757,"['https://www.geonames.org/2636157/tayside-region.html', 'http://www.geonames.org/2649469/fife.html']",0-150,,,
+758,['https://www.geonames.org/6269131/england.html'],0-150,,,
+759,NHS Brent CCG; NHS Central London CCG; NHS Ealing CCG; NHS Hammersmith &Fulham CCG; NHS Harrow CCG; NHS Hillingdon CCG; NHS Hounslow CCG; NHS West London CCG,65-110,,,
+760,"['https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html']",40-150,,,
+761,England,0-150,,,
+762,England,15-110,,,
+763,https://www.geonames.org/countries/GB/united-kingdom.html,18-100,,,
+764,['https://www.geonames.org/6269131/england.html'],0-150,,,
+765,"['https://www.geonames.org/3042225/isle-of-man.html', 'https://www.geonames.org/3042363/guernsey.html', 'https://www.geonames.org/6269131/england.html', 'https://www.geonames.org/2634895/wales.html', 'https://www.geonames.org/2641364/northern-ireland.html']",0-150,,,
+766,England,40-150,,,
+767,['https://www.geonames.org/2634895/wales.html'],,,,
+768,['https://www.geonames.org/2634343/west-midlands.html'],,,,
+769,England,,,,
+770,['https://www.geonames.org/2638360/scotland.html'],,,,
+771,['https://www.geonames.org/2634343/west-midlands.html'],,,,
+772,https://www.geonames.org/1210997/bangladesh.html,,,,
+773,https://www.geonames.org/2641364/northern-ireland.html,,,,
+774,England,,,,
