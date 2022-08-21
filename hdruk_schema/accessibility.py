@@ -1,26 +1,40 @@
 
-
-
-
-
-
-
-from operator import not_
+# from operator import not_
 import validators
 import re
 
 
 def check_length(property, min_length, max_length):
+  """checks the length of a given property 
+
+  Args:
+      property (str): 
+      min_length (int): 
+      max_length (int): 
+
+  Returns:
+      boolean: 
+  """
   if len(property) >= min_length and len(property) <= max_length:
     return True
   return False
 
 def is_in_list(item, list):
+  """checks if item is in a list
+
+  Args:
+      item (str): item to check
+      list (list): list of items
+
+  Returns:
+      boolean: 
+  """
   if item in list:
     return True
   return False
 
 def regex_match(pattern, string):
+
   pattern = re.compile(pattern)
   if re.fullmatch(pattern, string):
     return True
@@ -44,6 +58,9 @@ def regex_match(pattern, string):
 
 
 def vaildated_accessibility_usage(usage):
+  """
+  checks the property usage for conformity and returns result in a dictionary
+  """  
   
 
 
@@ -304,6 +321,15 @@ def validate_accessibility_access(access, schema_df):
 
 
 def validate_accessibility_formatStandards(formatAndStandards, schema_df):
+      """validates the property formatAndStandards for conformity to hdruk schema
+
+      Args:
+          formatAndStandards (dict): 
+          schema_df (pandas df): hdruk schema
+
+      Returns:
+          dict: 
+      """
 
       # print('Checking accessibility formatStandards')
       not_available = 'NA'
@@ -414,6 +440,15 @@ def validate_accessibility_formatStandards(formatAndStandards, schema_df):
 
 
 def validate_accessibility(accessibility, schema_df):
+    """compares accessibility property to hdruk schema
+
+    Args:
+        accessibility (dict): 
+        schema_df (_type_): hdruk schema
+
+    Returns:
+        pandas df: hdruk schema
+    """
 
     is_valid = {}
     not_available = 'NA'
@@ -451,6 +486,15 @@ def validate_accessibility(accessibility, schema_df):
 
     
 def check_accessibility(accessibility, schema_df):
+  """_summary_
+
+  Args:
+      accessibility (dict): hdruk property
+      schema_df (pandas df): hdruk schema
+
+  Returns:
+      dict: 
+  """
 
   is_valid = validate_accessibility(accessibility, schema_df)
 

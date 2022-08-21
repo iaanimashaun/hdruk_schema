@@ -8,6 +8,16 @@ import re
 
 
 def check_length(property, min_length, max_length):
+  """checks the length of a property
+
+  Args:
+      property (str): hdruk property to check
+      min_length (int): minimum acceptable length of the property
+      max_length (int): maximum acceptable length of the property
+
+  Returns:
+      boolean: 
+  """
   if len(property) >= min_length and len(property) <= max_length:
     return True
   return False
@@ -25,6 +35,14 @@ def regex_match(pattern, string):
 
 
 def validate_documentation(documentation):
+  """validates documentation property of hdruk
+
+  Args:
+      documentation (dict): hdruk property
+
+  Returns:
+      dict: 
+  """
 
   not_available = 'NA'
   is_valid = {}
@@ -65,6 +83,15 @@ def validate_documentation(documentation):
   return is_valid
     
 def check_documentation(documentation, schema_df):
+  """compares the documentation property to hdruk schema
+
+  Args:
+      documentation (dict): 
+      schema_df (pandas df): 
+
+  Returns:
+      dict: 
+  """
   
 
   is_valid = validate_documentation(documentation)

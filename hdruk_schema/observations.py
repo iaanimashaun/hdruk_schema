@@ -7,6 +7,16 @@ from validate_email import validate_email
 
 
 def check_length(property, min_length, max_length):
+  """checks the length of a property
+
+  Args:
+      property (str): hdruk property to check
+      min_length (int): minimum acceptable length of the property
+      max_length (int): maximum acceptable length of the property
+
+  Returns:
+      boolean: 
+  """
   if len(property) >= min_length and len(property) <= max_length:
     return True
   return False
@@ -45,6 +55,14 @@ def validate_observations_measuredValue(df, schema_df): #row
 
 
 def validate_observations_disambiguatingDescription(disambiguatingDescription, schema_df):
+  """validates disambiguatingDescription property of hdruk
+
+  Args:
+      disambiguatingDescription (dict): hdruk property
+
+  Returns:
+      dict: 
+  """
 
   for k,v in disambiguatingDescription.items():
     if k in ['identifier', 'logo', 'accessRights']:
@@ -113,6 +131,14 @@ def validate_observations_measuredProperty(measuredProperty, schema_df):
 
 
 def validate_observations(observations, schema_df):
+    """validates observations property of hdruk
+
+    Args:
+        observations (dict): hdruk property
+
+    Returns:
+        dict: 
+    """
 
     for k,v in observations.items():
 

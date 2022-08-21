@@ -17,6 +17,14 @@ from prettytable import PrettyTable
 
 
 def parse_series(series):
+    """preprocess and cleans a hdruk property (column) 
+
+    Args:
+        series (pandas series): 
+
+    Returns:
+        pandas dataframe: clean hdruk property
+    """
     df_list = defaultdict(list)
     nrows = series.shape[0]
 
@@ -36,6 +44,15 @@ def parse_series(series):
 
 
 def parse_json_file(metadata_path, data_model_col='dataModels'):
+    """loads a hdruk schema metadata json file 
+
+    Args:
+        metadata_path (str): filepath to hdruk metadata (has to be a json file)
+        data_model_col (str, optional): column that contains the hdruk property. Defaults to 'dataModels'.
+
+    Returns:
+        pandas dataframe: 
+    """
 
     df_json = pd.read_json(metadata_path)
 
@@ -54,6 +71,14 @@ def parse_json_file(metadata_path, data_model_col='dataModels'):
 # df = parse_json_file(metadata_path)
 
 def load_schema(schema_file_path):
+    """loads hdruk schema json file into a dataframe
+
+    Args:
+        schema_file_path (str): file path to hdruk schema json file
+
+    Returns:
+        pandas dataframe: hdruk schema
+    """
     # schema_path = "dataset.schema.json"
 
     with open(schema_file_path, 'r') as j:
@@ -65,6 +90,17 @@ def load_schema(schema_file_path):
 
 
 def validate_property(df, schema_df, col, validator):
+        """
+
+        Args:
+            df (pandas dataframe): hdruk metadata
+            schema_df (pandas dataframe): hdruk schema
+            col (str): column name (hdruk property) to validate
+            validator (function): python function to use to validate the property
+
+        Returns:
+            dict: 
+        """
         
         print()
         print()
@@ -80,6 +116,15 @@ def validate_property(df, schema_df, col, validator):
 
 
 def schema_validator(metadata_path, schema_file_path):
+     """compares hdruk metadata to hdruk schema 
+
+        Args:
+            metadata_path (str): file path to hdruk metadata
+            schema_file_path (str): file path to hdruk schema
+
+        Returns:
+            dict: result of validation
+     """
      df = parse_json_file(metadata_path)
      schema_df = load_schema(schema_file_path)
      checklist = list(df.columns)

@@ -6,6 +6,15 @@ import validators
 
 
 def check_identifier(identifier, schema_df):
+  """validates the given identifier against hdruk schema
+
+  Args:
+      identifier (str): hdruk property
+      schema_df (pandas df): hdruk schema
+
+  Returns:
+      boolean: 
+  """
 
   return validators.url(identifier)
 
