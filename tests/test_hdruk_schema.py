@@ -1,4 +1,4 @@
-from raptor_functions import __version__
+from hdruk_schema import __version__
 
 
 def test_version():
